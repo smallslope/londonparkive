@@ -272,6 +272,7 @@ html, body, #map {
     color:#50B848;
     margin: 1rem;
     width: 75%;
+    text-align: center;
 }
 .popUp_subheading{
     font-size: 1.1rem;
