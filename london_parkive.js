@@ -177,6 +177,10 @@ function checkStorage(){
         var park_data = getParkData(listViewParkData);
         openParkOverlay(undefined, park_data);
         window.localStorage.setItem("list_view_clicked_park", "");
+       
+    }
+    else{
+        launchPopup.style.display = "block";
     }
 }
 map.on('load', () =>{
@@ -593,9 +597,10 @@ let parkInfoOverlay = document.getElementById("parks_information_overlay_contain
 
 function closeOverlay(){
     let accessMode = window.localStorage.getItem("map_access_mode");
+    let launchPopup = document.getElementById("launchPopup");
     if(accessMode === "from_list_view"){
         var baseurl = window.location.pathname;
-        var spliturl = baseurl.split("london_parkive.html");
+        var spliturl = baseurl.split("index.html");
         var targeturl = spliturl[0] + "lp_list_page.html";
         console.log(targeturl);
         var targetHref = window.location.origin + targeturl;
