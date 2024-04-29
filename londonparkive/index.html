@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>London Parkive Map</title>
+        <meta property="og:description" content="Initialize a map in an HTML element with MapLibre GL JS." />
+        <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css' />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="./london_parkive.css" />
+        <script src='https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js' defer></script>
+        <script src='https://unpkg.com/@turf/turf@6/turf.min.js'defer></script>
+        <script src='./london_parkive.js' defer></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/d3fc69292a.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div id="dropdown_menu_icon" onclick="dropdownMenu(this)">
+            <div id="top_line" class="dropdown_menu_lines"></div>
+            <div id="middle_line" class="dropdown_menu_lines"></div>
+            <div id="bottom_line" class="dropdown_menu_lines"></div>
+        </div>
+        <div id="nav_bar">
+            <h1 id="london_parkive_title">LONDON PARKIVE</h1> 
+        </div>
+        <div id="nav_container">
+            <nav id="nav_options">
+                <div id="dropdown_box_1" class="dropdown_box">
+                    <a class="nav_item active_nav_item" href="./index.html">Map</a>
+                </div>
+                <div id="dropdownbox_2" class="dropdown_box">
+                    <a class="nav_item" href="./lp_list_page.html">List</a>
+                </div> 
+                <div id="dropdownbox_3" class="dropdown_box">
+                    <a class="nav_item" href="./lp_about_page.html">About</a>
+                </div>      
+            </nav>
+        </div>
+        <div id="dropdown_background"></div>
+        <div id="map_search_bar_container">
+        <input id="map_view_search_bar" class="search_bar" type="search" placeholder="Search for a park..." autocomplete="off">
+        
+            <div id="search_bar_results" class="searchResults"></div>
+        </div>
+        <div id="view_mode_buttons_container">
+            <button id="status_button" class="view_mode_buttons view_mode_active">Status</button>
+            <button id="alterations_button" class="view_mode_buttons">Alterations</button>
+            <button id="year_opened_button" class="view_mode_buttons">Year Opened</button>
+        </div>
+        <div id="status_keys">
+            <div class="key_row">
+                <div id="status_open" class="key_square"></div>
+                <div class="key_description">Open</div>
+            </div>
+            <div class="key_row">
+                <div id="status_under_threat" class="key_square"></div>
+                <div class="key_description">Under Threat</div>
+            </div>
+            <div class="key_row">
+                <div id="status_defunct" class="key_square"></div>
+                <div class="key_description">Defunct</div>
+            </div>
+        </div>
+        <div id="yearOpened_keys">
+            <div class="key_row">
+                <div id="yo_before1850" class="key_square"></div>
+                <div class="key_description">&#60;1850</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1850to1874" class="key_square"></div>
+                <div class="key_description">1850-1874</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1875to1899" class="key_square"></div>
+                <div class="key_description">1875-1899</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1900to1924" class="key_square"></div>
+                <div class="key_description">1900-1924</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1925to1949" class="key_square"></div>
+                <div class="key_description">1925-1949</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1950to1974" class="key_square"></div>
+                <div class="key_description">1950-1974</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_1975to1999" class="key_square"></div>
+                <div class="key_description">1975-1999</div>
+            </div>
+            <div class="key_row">
+                <div id="yo_2000to2024" class="key_square"></div>
+                <div class="key_description">2000-2024</div>
+            </div>
+        </div>
+        <div id="alterations_keys">
+            <div class="key_row">
+                <div id="alterations_unchanged" class="key_square"></div>
+                <div class="key_description">Unchanged/Original</div>
+            </div>
+            <div class="key_row">
+                <div id="alterations_expanded" class="key_square"></div>
+                <div class="key_description">Expanded</div>
+            </div>
+            <div class="key_row">
+                <div id="alterations_shrunk" class="key_square"></div>
+                <div class="key_description">Shrunk/Defunct</div>
+            </div>
+            <div class="key_row">
+                <div id="alterations_under_threat" class="key_square"></div>
+                <div class="key_description">Under Threat</div>
+            </div>
+        </div>
+        <div id="launchPopup_container">
+            <div id="launchPopup">
+                <div id="launchPopup_close_icon" onclick="closeLaunchPopup()">
+                    <div class="launchPopup_close_icon_line1"></div>
+                    <div class="launchPopup_close_icon_line2"></div>
+                </div>
+                <div id="launchPopup_content">
+                    <div class="launchPopup_h1">Welcome to the LONDON PARKIVE!</div>
+                <br>
+                <div class="launchPopup_bold popUp_subheading">
+                    The London Parkive is an archive of London’s parks and open spaces and you can explore their history and evolution here!
+                </div>
+                <br>
+                <div class="launchPopup_bold" style="margin-top: 1rem;">
+                    Toggle between the view modes to see different colour coded information!
+                </div>
+                <img src="./Assets/Imgs/launch_popup_view_mode_img.jpg">
+                <div class="launchPopup_text">
+                    The <b>“status”</b> mode shows you if a park is currently open, under threat from development or no longer exists anymore/ is no longer publicly accessible. 
+                    <br>
+                    <br>
+                    The <b>“Alterations”</b> view mode shows you if a park has been expanded, shrunk or remained unchanged since it was first opened. 
+                    <br>
+                    <br>
+                    The <b>“Year Opened”</b> view mode show you what time period a park was opened in.
+                </div>
+                <br>
+                <div class="launchPopup_bold">
+                    Click on a park to read more about it!
+                </div>
+                </div>
+            </div>
+        </div>
+        <div id="mapContainer">
+            <div id="map"></div>
+        </div>
+        <div id="parks_information_overlay_container">
+            <div id="parks_information_overlay_content">
+                <div id="park_info_overlay_top_row">
+                    <div id="parks_info_backButton">
+                        <div id="arrow_line_1"></div>
+                        <div id="arrow_line_2"></div>
+                        <div id="arrow_line_3"></div>
+                    </div>
+                    <h1 id="park_info_overlay_park_name">Burgess Park</h1>
+                    <div id="blank_flex_box"></div>
+                </div>
+                <div id="park_info_overlay_header">
+                    
+                    <div id="park_info_overlay_coordinates">51.48330, -0.08213</div>
+                    <div id="park_info_overlay_other_names">Other Names: North Camberwell Open Space</div>
+                    <div id="park_info_overlay_info_summary_section">
+                        <div class="park_info_overlay_info_summary_row">
+                            <div class="park_info_overlay_info_summary_type">Opened:</div>
+                            <div class="park_info_overlay_info_summary_box" id="park_info_overlay_year_opened_box">
+                                <p class="park_info_overlay_info_summary_text" id="park_info_overlay_year_opened">1975-1999</p>
+                            </div>
+                        </div>
+                        <div class="park_info_overlay_info_summary_row">
+                            <div class="park_info_overlay_info_summary_type">Status:</div>
+                            <div class="park_info_overlay_info_summary_box" id="park_info_overlay_status_box">
+                                <p class="park_info_overlay_info_summary_text" id="park_info_overlay_status">Open</p>
+                            </div>
+                        </div>
+                        <div class="park_info_overlay_info_summary_row">
+                            <div class="park_info_overlay_info_summary_type">Alterations:</div>
+                            <div class="park_info_overlay_info_summary_box" id="park_info_overlay_alterations_box">
+                                <p class="park_info_overlay_info_summary_text" id="park_info_overlay_alterations">Expanded</p>
+                            </div>
+                        </div>   
+                    </div>
+                </div>
+               
+                
+                <hr class="park_info_overlay_section_divider">
+                <div class="park_info_overlay_detailed_info_section" id="park_info_overlay_history_section">
+                    <div class="park_info_overlay_title_row">
+                        <div class="park_info_overlay_toggle_arrow" onclick="overlayHistoryToggle(this)">
+                            <div class="park_info_overlay_toggle_arrow_line_1"></div>
+                            <div class="park_info_overlay_toggle_arrow_line_2"></div>
+                        </div>
+                        <h2 class="park_info_overlay_detailed_info_section_title">History</h2>
+                    </div>
+                    <p class="park_info_overlay_detailed_info_section_text" id="park_info_overlay_history_text">
+                        Burgess Park was created over a prolonged period from just after WWII right up to 1995 when it was completed. The park is the result the demolition of numerous houses, streets, churches and factories and infilling the disused Grand Surrey Canal. Several existing open spaces were incorporated into Burgess Park, which was originally known as North Camberwell Open Space and was renamed Burgess Park in 1973 after Alderman Jessie Burgess, first lady Mayor of Camberwell. Initially the open spaces were fragmented but consolidation into one large open space began in 1982 and completed in 1995. Numerous projects have taken place within the park including the planting of 1000s of trees, the provision of sports facilities, greening of the canal route etc. 
+                        <br>
+                        <br>
+                        It is difficult to date the exact opening date of Burgess Park as it is the result of the consolidation of several open spaces over a prolonged period of time. At the Parkive we have chosen to classify it’s opening period as 1950-1975 as this is when the initial consolidation of Burgess Park began. You can see some of the original open spaces that were incorporated into Burgess Park depicted on the map (If you look at the ‘Year Opened’ and ‘Alterations’ view modes you will see some areas that are coloured differently to the majority of Burgess Park).
+                    </p>
+                </div>
+                <hr class="park_info_overlay_section_divider">
+                
+            </div>
+        </div>
+    </body>
+</html>
+
+
+
+
+      
