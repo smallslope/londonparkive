@@ -795,7 +795,7 @@ function navigateToMapPage(park_data){
     window.localStorage.setItem("map_access_mode", "from_list_view");
     var baseurl = window.location.pathname;
     var spliturl = baseurl.split("lp_list_page.html");
-    var targeturl = spliturl[0] + "london_parkive.html";
+    var targeturl = spliturl[0] + "index.html";
     console.log(targeturl);
     var targetHref = window.location.origin + targeturl;
     console.log(targetHref);
