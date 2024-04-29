@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>London Parkive List</title>
+        <meta property="og:description" content="Initialize a map in an HTML element with MapLibre GL JS." />
+        <meta charset='utf-8'>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel='stylesheet' href='https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.css' />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> 
+        <link rel="stylesheet" href="./london_parkive.css" />
+        <script src='https://unpkg.com/maplibre-gl@3.6.2/dist/maplibre-gl.js' defer></script>
+        <script src='https://unpkg.com/@turf/turf@6/turf.min.js'defer></script>
+        <script src='./london_parkive_other_pages.js' defer></script>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+        <script src="https://kit.fontawesome.com/d3fc69292a.js" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <section>
+            <div id="dropdown_menu_icon" onclick="dropdownMenu(this)">
+                <div id="top_line" class="dropdown_menu_lines"></div>
+                <div id="middle_line" class="dropdown_menu_lines"></div>
+                <div id="bottom_line" class="dropdown_menu_lines"></div>
+            </div>
+            <div id="nav_bar">
+                <h1 id="london_parkive_title">LONDON PARKIVE</h1> 
+            </div>
+            <div id="nav_container">
+                <nav id="nav_options">
+                    <div id="dropdown_box_1" class="dropdown_box">
+                        <a class="nav_item" href="./index.html">Map</a>
+                    </div>
+                    <div id="dropdownbox_2" class="dropdown_box">
+                        <a class="nav_item active_nav_item" href="./lp_list_page.html">List</a>
+                    </div> 
+                    <div id="dropdownbox_3" class="dropdown_box">
+                        <a class="nav_item" href="./lp_about_page.html">About</a>
+                    </div>      
+                </nav>
+            </div>
+            <div id="dropdown_background"></div>
+        </section>
+        <section>
+            <input id= "list_view_search_bar" class="search_bar" type="search" placeholder="Search for a park..." onkeyup=" searchBarFilter()" autocomplete="off">
+            <div id="table_container">
+                <table id="london_parkive_list_view">
+                    <thead>
+                        <tr id="list_view_table_header">
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Name</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_name" onclick="nameFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="name_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="name_Filter_Content">
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="name_filter_ascending_checkbox" onclick="activateNameAscendingFilter()">
+                                                            <div class="lvt_filter_checkbox_active" id="name_filter_ascending_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_ascending_arrow"></div>
+                                                        <div class="lvt_filter_key">Sort Ascending</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="name_filter_descending_checkbox" onclick="activateNameDescendingFilter()">
+                                                            <div class="lvt_filter_checkbox_active" id="name_filter_descending_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_descending_arrow"></div>
+                                                        <div class="lvt_filter_key">Sort Descending</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Borough</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_borough" onclick="boroughFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="borough_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="borough_Filter_Content">
+                                                    <div class="lvt_filter_content_row">
+                                                        <img class="lvt_filter_icon" src="Assets/Icons/filter_icon.svg">
+                                                        <div class="lvt_filter_header">Filter</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="borough_filter_lewisham_checkbox" onclick="activateBoroughLewishamFilter()">
+                                                           <div class="lvt_filter_checkbox_active borough_filter_active" id="borough_filter_lewisham_checkbox_active_state"></div>
+                                                       </div>
+                                                        <div class="lvt_filter_key">Lewisham</div>
+                                                   </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="borough_filter_southwark_checkbox" onclick="activateBoroughSouthwarkFilter()">
+                                                           <div class="lvt_filter_checkbox_active borough_filter_active" id="borough_filter_southwark_checkbox_active_state"></div>
+                                                       </div>
+                                                        <div class="lvt_filter_key">Southwark</div>
+                                                   </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Size (Acres)</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_size" onclick="sizeFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="size_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="size_Filter_Content">
+                                                    <div class="lvt_filter_dropdown_content" id="name_Filter_Content">
+                                                        <div class="lvt_filter_content_row">
+                                                            <div class="lvt_filter_checkbox" id="size_filter_ascending_checkbox" onclick="activateSizeAscendingFilter()">
+                                                                <div class="lvt_filter_checkbox_active" id="size_filter_ascending_checkbox_active_state"></div>
+                                                            </div>
+                                                            <div class="lvt_filter_ascending_arrow"></div>
+                                                            <div class="lvt_filter_key">Sort Ascending</div>
+                                                        </div>
+                                                        <div class="lvt_filter_content_row">
+                                                            <div class="lvt_filter_checkbox" id="size_filter_descending_checkbox" onclick="activateSizeDescendingFilter()">
+                                                                <div class="lvt_filter_checkbox_active" id="size_filter_descending_checkbox_active_state"></div>
+                                                            </div>
+                                                            <div class="lvt_filter_descending_arrow"></div>
+                                                            <div class="lvt_filter_key">Sort Descending</div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Status</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_status" onclick="statusFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="status_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="status_Filter_Content">
+                                                    <div class="lvt_filter_content_row">
+                                                        <img class="lvt_filter_icon" src="Assets/Icons/filter_icon.svg">
+                                                        <div class="lvt_filter_header">Filter</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                         <div class="lvt_filter_checkbox" id="status_filter_open_checkbox" onclick="activateStatusOpenFilter()">
+                                                            <div class="lvt_filter_checkbox_active status_filter_active" id="status_filter_open_checkbox_active_state"></div>
+                                                        </div>
+                                                         <div class="lvt_filter_key">Open</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="status_filter_defunct_checkbox" onclick="activateStatusDefunctFilter()">
+                                                            <div class="lvt_filter_checkbox_active status_filter_active" id="status_filter_defunct_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Defunct</div>
+                                                   </div>
+                                                   <div class="lvt_filter_content_row">
+                                                    <div class="lvt_filter_checkbox" id="status_filter_under_threat_checkbox" onclick="activateStatusUnderThreatFilter()">
+                                                        <div class="lvt_filter_checkbox_active status_filter_active" id="status_filter_under_threat_checkbox_active_state"></div>
+                                                    </div>
+                                                        <div class="lvt_filter_key">Under Threat</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="status_filter_unknown_checkbox" onclick="activateStatusUnknownFilter()">
+                                                            <div class="lvt_filter_checkbox_active status_filter_active" id="status_filter_unknown_checkbox_active_state"></div>
+                                                        </div>
+                                                            <div class="lvt_filter_key">Unknown</div>
+                                                        </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Period Opened</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_period_opened" onclick="periodOpenedFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="period_opened_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="period_opened_Filter_Content">
+                                                    <div class="lvt_filter_content_row">
+                                                        <img class="lvt_filter_icon" src="Assets/Icons/filter_icon.svg">
+                                                        <div class="lvt_filter_header">Filter</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_before1850_checkbox" onclick="activatePoBefore1850Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_before1850_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Before 1850</div>
+                                                   </div>
+                                                   <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1850to1874_checkbox" onclick="activatePo1850to1874Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1850to1874_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1850-1874</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1875to1899_checkbox" onclick="activatePo1875to1899Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1875to1899_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1875-1899</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1900to1924_checkbox" onclick="activatePo1900to1924Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1900to1924_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1900-1924</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1925to1949_checkbox" onclick="activatePo1925to1949Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1925to1949_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1925-1949</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1950to1974_checkbox" onclick="activatePo1950to1974Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1950to1974_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1950-1974</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_1975to1999_checkbox" onclick="activatePo1975to1999Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_1975to1999_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">1975-1999</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_2000to2024_checkbox" onclick="activatePo2000to2024Filter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_2000to2024_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">2000-2024</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="po_filter_unkown_checkbox" onclick="activatePoUnknownFilter()">
+                                                            <div class="lvt_filter_checkbox_active po_filter_active" id="po_filter_unkown_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Unkown</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                            <th>
+                                <div class="list_view_table_thContainerContainer">
+                                    <div class="list_view_table_thContainer">
+                                        <div class="list_view_table_header_cell_text">Alterations</div>
+                                        <div class="lvt_filter_dropdown_container">
+                                            <div class="filterIcon id_alteration" onclick="alterationsFilterDropdown()">
+                                                <div class="filterIconLine1"></div>
+                                                <div class="filterIconLine2"></div>
+                                                <div class="filterIconLine3"></div>
+                                            </div>
+                                            <div class="list_view_table_filter_options_container" id="alterations_Filter_Container">
+                                                <div class="lvt_filter_dropdown_content" id="alterations_Filter_Content">
+                                                    <div class="lvt_filter_content_row">
+                                                        <img class="lvt_filter_icon" src="Assets/Icons/filter_icon.svg">
+                                                        <div class="lvt_filter_header">Filter</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="alterations_filter_unchanged_checkbox" onclick="activateAlterationsUnchangedFilter()">
+                                                            <div class="lvt_filter_checkbox_active alterations_filter_active" id="alterations_filter_unchanged_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Unchanged</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="alterations_filter_expanded_checkbox" onclick="activateAlterationsExpandedFilter()">
+                                                            <div class="lvt_filter_checkbox_active alterations_filter_active" id="alterations_filter_expanded_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Expanded</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="alterations_filter_shrank_checkbox" onclick="activateAlterationsShrankFilter()">
+                                                            <div class="lvt_filter_checkbox_active alterations_filter_active" id="alterations_filter_shrank_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Shrank</div>
+                                                    </div>
+                                                    <div class="lvt_filter_content_row">
+                                                        <div class="lvt_filter_checkbox" id="alterations_filter_unknown_checkbox" onclick="activateAlterationsUnknownFilter()">
+                                                            <div class="lvt_filter_checkbox_active alterations_filter_active" id="alterations_filter_unknown_checkbox_active_state"></div>
+                                                        </div>
+                                                        <div class="lvt_filter_key">Unkown</div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody id="list_view_table_body">
+                    </tbody>
+                </table>
+            </div>
+            <div id="mobile_table_container">
+                <hr class="mobile_list_view_line">
+                
+            </div>
+        </section>
+     
+    </body>
+</html>
