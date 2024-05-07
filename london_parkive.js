@@ -131,7 +131,7 @@ var shrunkParksLayer = {
         "fill-color" : alterationsShrunkColor,
         "fill-opacity" : 0
     },
-    filter : ["==", ["get", "alteration"], "Shrunk"],
+    filter : ["==", ["get", "alteration"], "Shrank"],
    
 }
 var alterationParksLayer = {

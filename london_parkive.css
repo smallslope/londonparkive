@@ -188,7 +188,7 @@ html, body, #map {
     flex-direction:column;
     justify-content: center;
     position: absolute;
-    bottom: 1rem;
+    top: 9rem;
     right: 1rem;
 }
 #yearOpened_keys{
@@ -200,7 +200,7 @@ html, body, #map {
     flex-direction:column;
     justify-content: center;
     position: absolute;
-    bottom: 1rem;
+    top: 9rem;
     right: 1rem;
 }
 #alterations_keys{
@@ -212,7 +212,7 @@ html, body, #map {
     flex-direction:column;
     justify-content: center;
     position: absolute;
-    bottom: 1rem;
+    top: 9rem;
     right: 1rem;
 }
 /*launch popup*/
@@ -225,7 +225,7 @@ html, body, #map {
 }
 #launchPopup{
     z-index: 10;
-    width: 50vw;
+    width: 60vw;
     height: 65vh;
     background-color: white;
     box-shadow: 10px 10px 15px 5px rgba(0,0,0,0.3);
@@ -234,13 +234,15 @@ html, body, #map {
 
 }
 #launchPopup_close_icon{
-    width: 2rem;
-    height: 2rem;
+    width: 1.4rem;
+    height: 1.4rem;
+    padding: 0.5rem;
     position: absolute;
     top: 1rem;
     right: 1rem;
+    display: block;
 }
-#launchPopup_close_icon div:hover{
+#launchPopup_close_icon:hover div{
     background-color:#50B848;
 }
 .launchPopup_close_icon_line1{
@@ -265,7 +267,7 @@ html, body, #map {
     flex-direction: column;
     align-items: center;
     justify-content: top;
-    overflow: scroll;
+    overflow: auto;
 }
 .launchPopup_h1{
     font-size: 2rem;
@@ -539,7 +541,7 @@ html, body, #map {
     font-size: 0.9rem;
 }
 #park_info_overlay_history_text{
-    display:none;
+    display: block;
 }
 /* List Page */
 #list_view_search_bar{
@@ -1042,12 +1044,15 @@ html, body, #map {
         margin-left: 0.3rem;
     }
     #status_keys{
+        top:auto;
         bottom: 2.5rem;
     }
     #yearOpened_keys{
+        top: auto;
         bottom: 2.5rem;
     }
     #alterations_keys{
+        top: auto;
         bottom: 2.5rem;
     }
     .tell_me_more_button{
