@@ -177,9 +177,7 @@ function checkStorage(){
         var park_data = getParkData(listViewParkData);
         openParkOverlay(undefined, park_data);
         window.localStorage.setItem("list_view_clicked_park", "");
-       
-    }
-    else{
+    } else{
         launchPopup.style.display = "block";
     }
 }
@@ -709,43 +707,45 @@ function openParkOverlay(event, park_data){
 }
 
 function getParkData(clickedFeature){
-    let clickedParkName = clickedFeature.properties.name;
-    let clickedParkLongitude = clickedFeature.properties.longitude;
-    let clickedParkLatitude = clickedFeature.properties.latitude;
-    let clickedParkOpeningPeriod = clickedFeature.properties.period_opened;
-    let clickedParkStatus = clickedFeature.properties.status;
-    let clickedParkAlterations = clickedFeature.properties.alteration;
-    let clickedParkOtherNames = clickedFeature.properties.other_names;
-    let clickedParkHistory = clickedFeature.properties.brief_history;
-    let clickedParkSize = clickedFeature.properties.size;
-    let zoomLevel = determineParkZoom(clickedParkSize);
-    let longitudeDiscrepancy = determineLongitudeDiscrepancy(clickedParkSize);
-    let latitudeDiscrepancy = determineLatitudeDiscrepancy(clickedParkSize);
-    let clickedParkCoordinates =  {lng: clickedFeature.properties.longitude + longitudeDiscrepancy, lat: clickedFeature.properties.latitude + latitudeDiscrepancy};
-    console.log(clickedParkSize);
-    console.log(latitudeDiscrepancy);
-   
-    let openingPeriodColor = setOpeningDateColor(clickedParkOpeningPeriod);
-    let statusColor = setStatusColor(clickedParkStatus);
-    let alterationsColor = setAlterationColor(clickedParkAlterations);
+    if(clickedFeature.properties){
+        let clickedParkName = clickedFeature.properties.name;
+        let clickedParkLongitude = clickedFeature.properties.longitude;
+        let clickedParkLatitude = clickedFeature.properties.latitude;
+        let clickedParkOpeningPeriod = clickedFeature.properties.period_opened;
+        let clickedParkStatus = clickedFeature.properties.status;
+        let clickedParkAlterations = clickedFeature.properties.alteration;
+        let clickedParkOtherNames = clickedFeature.properties.other_names;
+        let clickedParkHistory = clickedFeature.properties.brief_history;
+        let clickedParkSize = clickedFeature.properties.size;
+        let zoomLevel = determineParkZoom(clickedParkSize);
+        let longitudeDiscrepancy = determineLongitudeDiscrepancy(clickedParkSize);
+        let latitudeDiscrepancy = determineLatitudeDiscrepancy(clickedParkSize);
+        let clickedParkCoordinates =  {lng: clickedFeature.properties.longitude + longitudeDiscrepancy, lat: clickedFeature.properties.latitude + latitudeDiscrepancy};
+        console.log(clickedParkSize);
+        console.log(latitudeDiscrepancy);
+    
+        let openingPeriodColor = setOpeningDateColor(clickedParkOpeningPeriod);
+        let statusColor = setStatusColor(clickedParkStatus);
+        let alterationsColor = setAlterationColor(clickedParkAlterations);
 
-    let park_data = {
-        clickedParkCoordinates: clickedParkCoordinates,
-        zoomLevel: zoomLevel,
-        clickedParkName: clickedParkName,
-        clickedParkLatitude: clickedParkLatitude,
-        clickedParkLongitude: clickedParkLongitude,
-        clickedParkOtherNames: clickedParkOtherNames,
-        clickedParkHistory: clickedParkHistory,
-        clickedParkStatus: clickedParkStatus,
-        statusColor: statusColor,
-        clickedParkAlterations: clickedParkAlterations,
-        alterationsColor: alterationsColor,
-        openingPeriodColor: openingPeriodColor,
-        clickedParkOpeningPeriod: clickedParkOpeningPeriod
+        let park_data = {
+            clickedParkCoordinates: clickedParkCoordinates,
+            zoomLevel: zoomLevel,
+            clickedParkName: clickedParkName,
+            clickedParkLatitude: clickedParkLatitude,
+            clickedParkLongitude: clickedParkLongitude,
+            clickedParkOtherNames: clickedParkOtherNames,
+            clickedParkHistory: clickedParkHistory,
+            clickedParkStatus: clickedParkStatus,
+            statusColor: statusColor,
+            clickedParkAlterations: clickedParkAlterations,
+            alterationsColor: alterationsColor,
+            openingPeriodColor: openingPeriodColor,
+            clickedParkOpeningPeriod: clickedParkOpeningPeriod
+        }
+
+        return park_data;
     }
-
-    return park_data;
 }
 const searchInput = document.getElementById("map_view_search_bar");
 const searchResults = document.getElementById("search_bar_results");
@@ -772,7 +772,9 @@ searchInput.addEventListener("input", function(){
 });
 document.addEventListener("click", function(event){
     if(!searchInput.contains(event.target) && !searchResults.contains(event.target)){
-        displaySearchResults.style.display = "none";
+        if(displaySearchResults && displaySearchResults.style && displaySearchResults.style.display){
+            displaySearchResults.style.display = "none";
+        }
     }
 });
 searchResults.addEventListener("click", function(event){
@@ -783,7 +785,6 @@ searchResults.addEventListener("click", function(event){
         let targetPark = deduplicatedParks.filter((park) => park.properties.name == searchParkName);
         console.log(targetPark[0]);
        let data = getParkData(targetPark[0]);
-       console.log(data);
        openParkOverlay(undefined, data);
     }
 })
@@ -791,6 +792,8 @@ function closeLaunchPopup(){
     let popUp = document.getElementById("launchPopup");
     popUp.style.display = "none";
 }
+
+window.addEventListener('beforeunload', () => window.localStorage.setItem("map_access_mode", ""));
 //Find code that is currently not being used but could be useful later down the line here://
     //Function for merging park data.//
 
