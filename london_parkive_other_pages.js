@@ -1,22 +1,3 @@
-
-//Dropdown Menu Function//
-// function myCoolEventHandler(event){
-//     console.log('Event data:', event.detail);
-//     console.log('kane is cooler than maya');
-// }
-
-// document.addEventListener("kaneiscool", myCoolEventHandler);
-
-// // let any_data = {
-// //     name: 'dataname'
-// // }
-
-// // let myCoolCustomEvent = new CustomEvent("kaneiscool", {
-// //     detail: park_data
-// // });
-
-// // document.dispatchEvent(myCoolCustomEvent);
-
 function dropdownMenu(x) {
     let dropdownBackground = document.getElementById("dropdown_background");
     if (dropdownBackground.style.display === "flex"){
