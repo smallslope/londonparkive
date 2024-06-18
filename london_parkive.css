@@ -101,6 +101,7 @@ html, body, #map {
     width: 19.7rem;
     max-height: 20rem;
     overflow:scroll;
+    overflow-x:hidden;
     background-color: white;
     border: 2.5px solid black;
     border-bottom-left-radius: 0.7rem;
@@ -108,6 +109,21 @@ html, body, #map {
     display: none;
     z-index: 2;
 }
+#search_bar_results::-webkit-scrollbar {
+    width: 0.2rem;
+}
+
+#search_bar_results::-webkit-scrollbar-track {
+    background-color: #ffffff;
+    margin-bottom: 0.4rem;
+}
+
+#search_bar_results::-webkit-scrollbar-thumb {
+    background-color: black;
+    border-radius: 0.2rem;
+    height: 4rem;
+}
+
 .searchResultsRow{
     padding: 1rem;
     border-bottom: solid 1px black;
@@ -701,6 +717,7 @@ html, body, #map {
     width: 11rem;
     height: fit-content;
     border-radius: 1rem;
+    border-width: 0.1rem;
     border-style: solid;
     background-color: white;
     position: absolute;

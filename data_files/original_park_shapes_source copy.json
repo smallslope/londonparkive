@@ -4,7 +4,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Camberwell Green"
+                "name": "Camberwell Green",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.47486,
+                "longitude": -0.09269,
+                "status": "Open",
+                "year_opened": 1857,
+                "period_opened": "1850-1874",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Camberwell was a rural village until the late C18th, and Camberwell Fair was held in August on Camberwell Green for the Feast of St Giles, patron saint of Camberwell, from 1279 until 1855 when it was suppressed as a nuisance to the local residents. In 1856 four local dignitaries purchased exclusive rights for holding the fair on the Green from the Lords of the Manor on a 1,000 year lease with an annual rent of one peppercorn. They sold it to Camberwell Vestry in September 1857 and the Green re-opened as a public open space in 1859. The Green was previously dominated by elm trees and had a pond in the south.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU013",
+                "size": 2.34
             },
             "geometry": {
                 "coordinates": [
@@ -121,7 +134,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Christchurch Garden"
+                "name": "Christ Church Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50611,
+                "longitude": -0.10518,
+                "status": "Open",
+                "year_opened": 1900,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Christ Church Garden is the former churchyard of Christ Church built here in 1671, which was rebuilt in the C18th and added to in the 1890s but destroyed by bombing in WWII. The current church dates from 1960. The churchyard was enlarged a number of times but closed to burial in 1856. It was converted into a public garden by the MPGA and opened in 1900. A drinking fountain was donated by John Passmore Edwards. When the church was bombed, the cross fell into the churchyard scorching the ground, its position now marked by a stone cross in the grass. The garden was redesigned in 2000.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU017",
+                "size": 1.16
             },
             "geometry": {
                 "coordinates": [
@@ -194,7 +220,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dulwich Park"
+                "name": "Dulwich Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.44556,
+                "longitude": -0.07827,
+                "status": "Open",
+                "year_opened": 1890,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Dulwich Park opened as a public park in 1890. It was formerly part of the Manor of Dulwich, purchased by theatre impresario Edward Alleyn in the early C17th, who founded almshouses and a school here, now Dulwich College. The Dulwich Estates' Board of Governors, set up in 1882, donated land to the MBW for the public park in 1885. It was laid out by the newly formed LCC in 1889/90 and much of its original layout is still intact.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU025",
+                "size": 75.17
             },
             "geometry": {
                 "coordinates": [
@@ -403,7 +442,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Goose Green"
+                "name": "Goose Green",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.46156,
+                "longitude": -0.0729,
+                "status": "Open",
+                "year_opened": "Before 1850",
+                "period_opened": "Before 1850",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Goose Green was once common land, available for the use of the whole community, but in the late 19th century William Bowyer-Smith, the Lord of the Manor at that time, started giving building leases on other common land at Peckham Rye to developers. The Camberwell Vestry stepped in and bought the manorial right to the land, so retaining it as a public open space.",
+                "history_link": "https://ideal-homes.gre.ac.uk/southwark/assets/galleries/east-dulwich/goose-green.html",
+                "size": 4.21
             },
             "geometry": {
                 "coordinates": [
@@ -452,7 +504,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Long Lane Park"
+                "name": "Long Lane Recreation Ground",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49789,
+                "longitude": -0.08259,
+                "status": "Open",
+                "year_opened": 1896,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Long Lane Playground is on the site of a Quaker Burial Ground whose perimeter wall remains as the wall to the recreation ground, now laid out as a playground. The garden consists of an area of grass with some shrubs to the front boundary with Long Lane and south of the wall, which remains across the centre of the playground.",
+                "history_link": "https://www.parksandgardens.org/places/long-lane-recreation-ground-playground",
+                "size": 0.45
             },
             "geometry": {
                 "coordinates": [
@@ -493,7 +558,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Guy Street Park"
+                "name": "Guy Street Park",
+                "other_names": "Nelson Recreation Ground",
+                "borough": "Southwark",
+                "latitude": 51.50165,
+                "longitude": -0.08682,
+                "status": "Open",
+                "year_opened": 1899,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "The land here was open fields until the C18th when it was purchased by the Trustees of Guy's Hospital for use as a burial ground for deceased patients. It continued as a burial ground until the 1850s Burial Acts led to its closure. For a time it was leased to a local builder but in the 1890s part was purchased by Bermondsey Vestry for a much-needed public recreation ground, opening as Nelson Recreation Ground in 1899. Although it was refurbished after WWII war damage it became run down. It was renamed and refurbished after local residents set up Friends of Guy Street Park in 2001 following community consultation. It re-opened in 2003 with improved lighting, seating, play areas, a community garden and a community artwork that also provided illumination.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU036",
+                "size": 0.95
             },
             "geometry": {
                 "coordinates": [
@@ -550,7 +628,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Newington Gardens"
+                "name": "Newington Gardens",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49772,
+                "longitude": -0.09604,
+                "status": "Open",
+                "year_opened": 1917,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Newington Gardens is a small quiet garden behind the Crown Court on Newington Causeway, created on the site where Horsemonger Lane Gaol once stood. For a long time, it was known as Gaol Park, the memory of the former building kept alive by the high external wall and large gatehouse long retained after the prison was demolished in 1880.\n\nToday the park is situated behind the Inner London Sessions House which was rebuilt at the beginning of the 20th century; but due to delays caused by the First World War, it didn't open until 1917.",
+                "history_link": "ttps://www.southwark.gov.uk/parks-and-open-spaces/parks/newington-gardens",
+                "size": 2.95
             },
             "geometry": {
                 "coordinates": [
@@ -627,7 +718,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nunhead Green"
+                "name": "Nunhead Green",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.46542,
+                "longitude": -0.05854,
+                "status": "Open",
+                "year_opened": "Before 1850",
+                "period_opened": "Before 1850",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Nunhead Green is a prominent gateway to the high street. Previously it was underused due to its poor layout and frequent anti-social behaviour. A new design by architects AOC has helped put Nunhead Green back at the heart of the high street. It also celebrates its 200-year history as a traditional village green. The new green has a children’s play area and a village square that can host gatherings and events.",
+                "history_link": "https://www.london.gov.uk/programmes-strategies/shaping-local-places/public-space/londons-great-outdoors-nunhead-southwark",
+                "size": 0.63
             },
             "geometry": {
                 "coordinates": [
@@ -676,7 +780,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Peckham Rye Park & Common"
+                "name": "Peckham Rye Park & Common",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.4581,
+                "longitude": -0.06125,
+                "status": "Open",
+                "year_opened": 1894,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Peckham Rye Common was for centuries used as a deer park although local people had common rights. It was purchased for public open space in 1868 by Camberwell Vestry and transferred to the MBW in 1882. In 1890 the adjacent Homestall Farm was acquired by the Vestry, the LCC and the Charity Commissioners for a public park and Peckham Rye Park was laid out in 1894. The park had an artificial lake with island and bankside walks, rock and water gardens; an American garden, Japanese garden, and an English Garden, also known as the Sexby Garden.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU070a",
+                "size": 103.46
             },
             "geometry": {
                 "coordinates": [
@@ -725,7 +842,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Peckham Rye Park & Common"
+                "name": "Peckham Rye Park & Common",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.4581,
+                "longitude": -0.06125,
+                "status": "Open",
+                "year_opened": 1894,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Peckham Rye Common was for centuries used as a deer park although local people had common rights. It was purchased for public open space in 1868 by Camberwell Vestry and transferred to the MBW in 1882. In 1890 the adjacent Homestall Farm was acquired by the Vestry, the LCC and the Charity Commissioners for a public park and Peckham Rye Park was laid out in 1894. The park had an artificial lake with island and bankside walks, rock and water gardens; an American garden, Japanese garden, and an English Garden, also known as the Sexby Garden.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU070a",
+                "size": 103.46
             },
             "geometry": {
                 "coordinates": [
@@ -870,7 +1000,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Red Cross Garden"
+                "name": "Red Cross Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50311,
+                "longitude": -0.09459,
+                "status": "Open",
+                "year_opened": 1888,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Red Cross Garden formed part of Octavia Hill's pioneering social housing scheme here, which consisted of two rows of cottages and a community hall, designed by Elijah Hoole. The garden predated the buildings and was laid out in 1887, the opening ceremony taking place in 1888. It was created to provide 'an open air sitting room for the tired inhabitants of Southwark' and had an elaborate layout of curved lawns, flower beds and serpentine paths, an ornamental pond with fountain, bandstand and covered children's play area. There were once two mosaics in the garden, that depicting 'The Sower' remains, restored in 1956 and again in 2005. During WWII the railings were removed for the war effort and the caretaker dismissed, and by 1948 the layout of the garden had disappeared. Sir Sidney Cockerell writing to The Times of his visit in July 1948 found 'a desolate flat space part of it newly asphalted'. The garden appears treeless in a photograph of 1965, although some trees were subsequently planted. It was not until 2005 that it was restored to much of its original layout through the work of Bankside Open Spaces Trust with support by local people and funding from HLF and Southwark Council. It reflects its Victorian origins as a community garden and combines C19th and ecological planting.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU074",
+                "size": 0.32
             },
             "geometry": {
                 "coordinates": [
@@ -919,7 +1062,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Camberwell Library Ground"
+                "name": "Camberwell Library Ground",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.47384,
+                "longitude": -0.07646,
+                "status": "Defunct",
+                "year_opened": 1893,
+                "period_opened": "1875-1899",
+                "alteration": "Shrank",
+                "period_destroyed": "1940s",
+                "first_list_appearence": 1905,
+                "brief_history": "The grand Camberwell Central Library on Peckham Road was opened in 1893 by the Prince of Wales, who later became Edward VII, but was razed to the ground by a doodlebug in 1944.",
+                "history_link": "https://southwarknews.co.uk/area/peckham/new-camberwell-library-opens-its-doors/",
+                "size": 0.42
             },
             "geometry": {
                 "coordinates": [
@@ -948,7 +1104,114 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nursery Row Park"
+                "name": "Sayes Court Park",
+                "other_names": "",
+                "borough": "Lewisham",
+                "latitude": 51.48482,
+                "longitude": -0.0301,
+                "status": "Open",
+                "year_opened": 1878,
+                "period_opened": "1875-1899",
+                "alteration": "Shrank",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Sayes Court Park is on part of the former grounds of Sayes Court, a property that was once was within the King’s estates in Greenwich. From the mid-C17th it was the home of the diarist John Evelyn who laid out fine gardens here. After he moved to Surrey, Evelyn let Sayes Court, including for a short time to Peter the Great of Russia in 1698, who was studying ship building at the Royal Dockyard nearby. The mansion was demolished in 1729 and a workhouse built on the site, later converted as almshouses by a descendent of Evelyn. In 1878 he laid out part of the land as a recreation ground initially for his tenants, but later a park of 1.5 acres was opened as a public facility. Requisitioned during WWII, the park was later re-landscaped by the LCC and opened in 1952.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=LEW049",
+                "size": 2.8
+            },
+            "geometry": {
+                "coordinates": [
+                    [
+                        [
+                            -0.030276643069839793,
+                            51.485275230397406
+                        ],
+                        [
+                            -0.03031674277715979,
+                            51.48530852467786
+                        ],
+                        [
+                            -0.03162332492357223,
+                            51.485310605569595
+                        ],
+                        [
+                            -0.03164671641908967,
+                            51.484975580780855
+                        ],
+                        [
+                            -0.0315999334270316,
+                            51.48493812444045
+                        ],
+                        [
+                            -0.03164337477670642,
+                            51.48489442533733
+                        ],
+                        [
+                            -0.03166342463089222,
+                            51.484548992860084
+                        ],
+                        [
+                            -0.031259085911159445,
+                            51.48454691193362
+                        ],
+                        [
+                            -0.031265769194845916,
+                            51.484486565024866
+                        ],
+                        [
+                            -0.031315893830310415,
+                            51.484390842178016
+                        ],
+                        [
+                            -0.03133594368446779,
+                            51.4842659859888
+                        ],
+                        [
+                            -0.031295843976096194,
+                            51.48413280567701
+                        ],
+                        [
+                            -0.03130921054557234,
+                            51.48409534864433
+                        ],
+                        [
+                            -0.03069100671666547,
+                            51.484091186749794
+                        ],
+                        [
+                            -0.03069100671666547,
+                            51.48425974317058
+                        ],
+                        [
+                            -0.030209810223624345,
+                            51.48427430974547
+                        ],
+                        [
+                            -0.030276643069839793,
+                            51.485275230397406
+                        ]
+                    ]
+                ],
+                "type": "Polygon"
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Nursery Row Park",
+                "other_names": "East Street Recreation Ground/ Walworth Recreation Ground",
+                "borough": "Southwark",
+                "latitude": 51.48988,
+                "longitude": -0.09032,
+                "status": "Open",
+                "year_opened": 1885,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "The southern portion of today's Nursery Row Park was laid out sometime between 1885-97, to provide open space for the growing local population. Known as East Street Recreation Ground, the park lay between Blendon Row and Orb Street. The MPGA assisted with funding for the layout and planting, which included perimeter plane trees that still survive today. In 1980 the park was extended to the north following slum clearance that saw demolition of streets including Nursery Row, after which the park was renamed",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU064a",
+                "size": 4.22
             },
             "geometry": {
                 "coordinates": [
@@ -1041,7 +1304,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. George’s Churchyard (Borough High Street)"
+                "name": "St. George's Churchyard (Borough High Street)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50139,
+                "longitude": -0.09259,
+                "status": "Open",
+                "year_opened": 1853,
+                "period_opened": "1850-1874",
+                "alteration": "Shrank",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "There has been a church on the site since the C12th although the present church of St George the Martyr dates from the C18th. It is often referred to as 'Little Dorrit’s Church' because Charles Dickens’ character was baptised and married here. In 1816 the small churchyard was enlarged by Act of Parliament but it was eventually closed for burials in 1853 and was converted into a public garden in 1882. When Tabard Street was extended to Borough High Street, part of the churchyard was lost, and the detached portion was re-opened as public gardens in 1902, now called St George's Garden. The north boundary wall originally formed the southern boundary of Marshalsea Prison, where Dickens' father was incarcerated. The garden has been re-landscaped and has a number of gravestones in one corner.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU077",
+                "size": 0.06
             },
             "geometry": {
                 "coordinates": [
@@ -1081,16 +1357,17 @@
                 "name": "St. George's Garden (Borough High Street)",
                 "other_names": "",
                 "borough": "Southwark",
-                "longitude": 51.50149,
-                "latitude": -0.09169,
+                "latitude": 51.50149,
+                "longitude": -0.09169,
                 "status": "Open",
                 "year_opened": 1902,
                 "period_opened": "1900-1924",
-                "altered": "Expanded",
+                "alteration": "Expanded",
                 "period_destroyed": "n/a",
                 "first_list_appearence": 1905,
                 "brief_history": "There has been a church on the site since the C12th although the present church of St George the Martyr dates from the C18th. It is often referred to as 'Little Dorrit’s Church' because Charles Dickens’ character was baptised and married here. In 1816 the small churchyard was enlarged by Act of Parliament but it was eventually closed for burials in 1853 and was converted into a public garden in 1882. When Tabard Street was extended to Borough High Street, part of the churchyard was lost, and the detached portion was re-opened as public gardens in 1902, now called St George's Garden. The north boundary wall originally formed the southern boundary of Marshalsea Prison, where Dickens' father was incarcerated. The garden has been re-landscaped and has a number of gravestones in one corner.",
-                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU077"
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU077",
+                "size": 0.59
             },
             "geometry": {
                 "coordinates": [
@@ -1147,7 +1424,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. John's Churchyard"
+                "name": "St. John's Churchyard",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50219,
+                "longitude": -0.07875,
+                "status": "Open",
+                "year_opened": 1882,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "St John Horselydown was an early C18th church designed by Nicholas Hawksmoor and John James, a prominent local landmark until it was bombed in WWII. It was replaced by a new building in 1976, now London City Mission, which rises out of the remains of the old walls. The churchyard was in use until 1853. Adjoining it was a paupers' burial ground of St Olave's, now part of Potters Fields Park. St John's churchyard was laid out as public gardens in 1882. The C18th Watch House is within the garden, and C18th Vicarage is just outside.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU080",
+                "size": 2.19
             },
             "geometry": {
                 "coordinates": [
@@ -1216,7 +1506,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Mary Magdalene Churchyard"
+                "name": "St. Mary Magdalene Churchyard",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49817,
+                "longitude": -0.08043,
+                "status": "Open",
+                "year_opened": "Before 1850",
+                "period_opened": "Before 1850",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "The parish of Saint Mary Magdalene is the ancient parish of Bermondsey. The parish church was probably founded by a local monastery. It remained the only parish in the area until 1840, when the parish of Saint James was established in response to the growing population of Bermondsey. Christ Church, Saint Paul, Saint Anne, Saint Crispin, Saint Augustine and Saint Luke all followed between 1845 and 1885. The medieval church building was rebuilt in the seventeenth century, and later added to and restored, particularly in 1883.",
+                "history_link": "https://search.lma.gov.uk/scripts/mwimain.dll/144/LMA_OPAC/web_detail/REFD+P71~2FMMG?SESSIONSEARCH",
+                "size": 1.79
             },
             "geometry": {
                 "coordinates": [
@@ -1297,7 +1600,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Mary's Churchyard (Newington)"
+                "name": "St. Mary's Churchyard (Newington)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49283,
+                "longitude": -0.10195,
+                "status": "Open",
+                "year_opened": 1879,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "",
+                "history_link": "",
+                "size": 1.71
             },
             "geometry": {
                 "coordinates": [
@@ -1378,7 +1694,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Paul's Churchyard (Rotherhithe)"
+                "name": "St. Paul's Churchyard (Rotherhithe)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50611,
+                "longitude": -0.04239,
+                "status": "Defunct",
+                "year_opened": 1855,
+                "period_opened": "1850-1874",
+                "alteration": "Shrank",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "The Anglican St Paul's Chapel, a chapel-of-ease to St Mary's Rotherhithe, was built in 1855 by  William Beatson and was badly damaged in the Second World War, perhaps destroyed.  There is some confusion about when it was finally demolished, but although it seems to have been decommissioned in 1955 records indicate that some part of it was in use on the site until the 1970s.\n\nSt Paul's was located at Ram Alley, later Beatson Street, close to Surrey Canal School which later became St Pauls School. Today it is the site of Peter Hills with St Mary and St Paul School.",
+                "history_link": "https://russiadock.blogspot.com/2013/05/the-st-pauls-chapel-destroyed.html",
+                "size": 0.48
             },
             "geometry": {
                 "coordinates": [
@@ -1463,7 +1792,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Phillip's Churchyard (Camberwell)"
+                "name": "St. Phillip's Churchyard (Camberwell)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48661,
+                "longitude": -0.06964,
+                "status": "Open",
+                "year_opened": 1876,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "The church was built in 1876, consisting of a half-octagonal chancel with north organ chamber and south vestry, together with a nave, transept and aisle. The church was constructed of Kentish ragstone and designed in a medieval style. It was rebuilt in 1962. The parish was united with St. Mark, Cobourg Road in 1965.",
+                "history_link": "https://search.lma.gov.uk/scripts/mwimain.dll/144/LMA_OPAC/web_detail/REFD+P73~2FPHI?SESSIONSEARCH",
+                "size": 0.36
             },
             "geometry": {
                 "coordinates": [
@@ -1512,7 +1854,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Southwark Park"
+                "name": "Southwark Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49476,
+                "longitude": -0.05554,
+                "status": "Open",
+                "year_opened": 1869,
+                "period_opened": "1850-1874",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Prior to becoming a public park, the site was used for market gardening and was owned by the Lord of Rotherhithe Manor. Pressure for a public park in the area began in the 1850s and in 1857 the new Metropolitan Board of Works was persuaded that Bermondsey and Rotherhithe, as well as Finsbury, were most in need and a site was approved. Southwark Park was laid out by the MBW and opened on 19 June 1869. The original layout had a wide carriage drive around the perimeter, part of which survives; various facilities were added by 1885, including a new lake and a bandstand, and in the early C20th a lido and the Ada Salter Rose Garden were among the new facilities. Rundown in the latter C20th, it was very well restored by 2001 with HLF funding, the works including a replica bandstand and bowling pavilion, and the lake restored to its original pre-WWII size and the main gates repaired. Other facilities include a cafe, visitor’s centre, art gallery, sports track and wildlife area.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU088",
+                "size": 64.56
             },
             "geometry": {
                 "coordinates": [
@@ -1817,7 +2172,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Potters Field Park"
+                "name": "Potters Field Park",
+                "other_names": "Tooley Street Garden",
+                "borough": "Southwark",
+                "latitude": 51.504201,
+                "longitude": -0.078489,
+                "status": "Open",
+                "year_opened": 1888,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1905,
+                "brief_history": "Potters Fields Park is on a site that includes the former burial ground of St Olave's Church to the south, converted into a recreation ground in the late C19th, and riverside wharves and warehouses near the foot of Tower Bridge. When the riverside area became derelict, an ecology park was created here in 1977, remaining until 1985. The park combining these two areas was laid out in 1988 and opened as Potters Fields Park, recalling the pottery works that had existed here in the C17th. The park was re-designed in 2007. When it first opened as a recreation ground in the late C19th, the park was known as The Tooley Street Garden, but it was re-named Potters Fields Park in 2006.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU072",
+                "size": 2.86
             },
             "geometry": {
                 "coordinates": [
@@ -1942,7 +2310,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Faraday Gardens"
+                "name": "Faraday Gardens",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48718,
+                "longitude": -0.09098,
+                "status": "Open",
+                "year_opened": 1905,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "",
+                "history_link": "",
+                "size": 2.89
             },
             "geometry": {
                 "coordinates": [
@@ -1991,7 +2372,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Little Dorrit Park"
+                "name": "Little Dorrit Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.5022,
+                "longitude": -0.09368,
+                "status": "Open",
+                "year_opened": 1902,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "So-called after Little Dorrit, the Dickens character who was associated with nearby Marshalsea Prison, the site had previously been Falcon Court, 'a horrible rookery of tumble-down dirty hovels'. It was created as a children's playground by the LCC's Parks and Open Spaces Committee, and was opened in 1902 by the LCC Councillor for Rotherhithe, Mr A Pomeroy-Cragg, at a ceremony accompanied by music from the North London Prize Band. Improvement works were carried out in 2001 by Little Dorrit Park Group, set up by group of local mothers including artist Danuta Solowig Wedderburn who created bronze plaques. Works included playground improvements and landscaping and the park is supported by Bankside Open Spaces Trust (BOST).",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU051",
+                "size": 0.74
             },
             "geometry": {
                 "coordinates": [
@@ -2076,7 +2470,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Nelson Square Gardens"
+                "name": "Nelson Square Gardens",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50296,
+                "longitude": -0.10317,
+                "status": "Open",
+                "year_opened": 1904,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Nelson Square Gardens was originally for the use of residents of Nelson Square. In 1903 the owner, Viscount Halifax, gave the site to the LCC and it was laid out as a rectangular playground, with flower bed in the centre and shrub and privet hedge around the perimeter. It opened to the public in February 1904. There was formerly a bandstand and ornamental drinking fountain presented by the MPGA. The garden has 6 mature plane trees but is now mainly laid out as a tarmac playground, alongside which is a small rose garden with ornamental planting.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU061",
+                "size": 1.03
             },
             "geometry": {
                 "coordinates": [
@@ -2129,7 +2536,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Alfred Salter Playground"
+                "name": "Alfred Salter Playground",
+                "other_names": "Coxon's Place/ Butler's Burial Ground",
+                "borough": "Southwark",
+                "latitude": 51.50078,
+                "longitude": -0.07665,
+                "status": "Open",
+                "year_opened": 1921,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "",
+                "history_link": "",
+                "size": 0.45
             },
             "geometry": {
                 "coordinates": [
@@ -2178,7 +2598,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Pearson Park"
+                "name": "Pearson Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50389,
+                "longitude": -0.03436,
+                "status": "Open",
+                "year_opened": 1901,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "",
+                "history_link": "",
+                "size": 1
             },
             "geometry": {
                 "coordinates": [
@@ -2231,7 +2664,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Mary's Churchyard Garden (Rotherhithe)"
+                "name": "St. Mary's Churchyard Garden (Rotherhithe)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.50071,
+                "longitude": -0.05415,
+                "status": "Open",
+                "year_opened": 1901,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "There has been a church here since at least the C10th, the present church of St Mary's Rotherhithe dating from the early C18th. Rotherhithe had strong maritime connections, with many seafarers among its parishioners. In 1620 The Mayflower sailed from here to pick up the Pilgrim Fathers, and three of its four part-owners were buried in Rotherhithe churchyard. An unusual memorial in the churchyard is that of Prince Lee Boo (d.1784), the son of the King of the Belau Islands, whose monument was erected by the East India Company. The churchyard immediately adjacent to the church was opened to the public in 1909, while the main part of the churchyard had been opened as a public garden in 1901, now called St Mary's Churchyard Gardens.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU083",
+                "size": 0.48
             },
             "geometry": {
                 "coordinates": [
@@ -2272,7 +2718,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Warwick Gardens"
+                "name": "Warwick Gardens",
+                "other_names": "Azenby Road Playground",
+                "borough": "Southwark",
+                "latitude": 51.4695,
+                "longitude": -0.07548,
+                "status": "Open",
+                "year_opened": 1910,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "A triangle of land of 0.13 hectares at Azenby Road at the western part of the present Warwick Gardens was acquired by Camberwell Borough Council in 1910 for £600, with a contribution from the LCC of £388. It was opened the same year as Azenby Road Playground, and maintained by Camberwell Borough Council as an open playground. It has since been expanded to the present Warwick Gardens, which was laid out post WWII.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU098",
+                "size": 4.36
             },
             "geometry": {
                 "coordinates": [
@@ -2325,7 +2784,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Brunswick Park"
+                "name": "Brunswick Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.47587,
+                "longitude": -0.08608,
+                "status": "Open",
+                "year_opened": 1907,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Development of meadowland here took place from 1847, when Brunswick Square was laid out with an area of private communal garden in the centre. It was named after King George IV's marriage to Caroline, daughter of the Duke of Brunswick. In 1901 Camberwell Borough Council purchased the garden, then divided by a roadway, for a public park, which opened in 1907. Tennis courts and a playground were opened in 1937, and a drinking fountain was donated. The park was refurbished by LB Southwark in 1997-99.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU011",
+                "size": 4.07
             },
             "geometry": {
                 "coordinates": [
@@ -2382,7 +2854,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sydenham Hill Wood and Cox's Walk"
+                "name": "Sydenham Hill Wood and Cox's Walk",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.43834,
+                "longitude": -0.06663,
+                "status": "Open",
+                "year_opened": 1898,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Sydenham Hill Wood and Dulwich Woods to the west are survivors of the Great North Wood, which once covered large tracts of land here, a chain of oak woods and wooded commons that extended from Selhurst to Brockley. After 1787 Dulwich tenants lost their common rights following the Enclosure Acts, although the woods survived until the development of Crystal Palace following the Great Exhibition, which led to housing development. The steep slope of woodland running west from Sydenham Hill became the gardens of several Victorian houses, since demolished, their gardens are now back within the woodland. Although the gardens have disappeared, evidence remains in the form of exotic garden trees, and fragments of built features. Also within the woods is the disused railway track of the Crystal Palace High Level Railway.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU093",
+                "size": 28.7
             },
             "geometry": {
                 "coordinates": [
@@ -2571,7 +3056,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Friary Estate Playground"
+                "name": "Friary Street Playground",
+                "other_names": "Downes Street Playground",
+                "borough": "Southwark",
+                "latitude": 51.48081,
+                "longitude": -0.06553,
+                "status": "Open",
+                "year_opened": 1910,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "",
+                "history_link": "",
+                "size": 1.25
             },
             "geometry": {
                 "coordinates": [
@@ -2652,7 +3150,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Dulwich Library Garden"
+                "name": "Dulwich Library Ground",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.44871,
+                "longitude": -0.0749,
+                "status": "Open",
+                "year_opened": 1897,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Dulwich Library is a John Passmore Edwards Library, built as a memorial to Edward Alleyn, the Elizabethan actor and founder of Alleyn's School and Dulwich College. The architect was Charles Barry and Son and the site was donated by Dulwich College. The foundation stone was laid by the famous actor Sir Henry Irving on 24 September 1896 and the library was declared open by Lord Chancellor Halsbury on the 24 November 1897.\n\nThe building probably originally operated on a closed access system where books could be selected from a catalogue and retrieved by staff for viewing. The original single-storey wing to the west of the main entrance was rebuilt in about 1950 following bomb damage in 1940 or 1941.\n\nThe building was refurbished in 2013.",
+                "history_link": "https://historicengland.org.uk/listing/the-list/list-entry/1430885?section=official-list-entry",
+                "size": 0.71
             },
             "geometry": {
                 "coordinates": [
@@ -2697,7 +3208,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Leyton Square Garden"
+                "name": "Leyton Square Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48141,
+                "longitude": -0.0676,
+                "status": "Open",
+                "year_opened": 1901,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Leyton Square was opened to the public in 1901, after Camberwell Borough Council purchased the land in 1899 for £3,000, of which £1,500 was provided by the LCC, plus £683 for half the paving expenses. The garden has since been reconfigured, and is now within a more recent housing estate. Laid out on slightly undulating ground, it is largely laid to grass with recreation facilities, paths and seating. There are scattered trees including lines of older plane trees, presumably marking the original perimeter.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU050",
+                "size": 2.99
             },
             "geometry": {
                 "coordinates": [
@@ -2750,7 +3274,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "One Tree Hill"
+                "name": "One Tree Hill",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.45132,
+                "longitude": -0.05191,
+                "status": "Open",
+                "year_opened": 1905,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "One Tree Hill has a long history and connections with significant events, its height exploited for both defence and commercial purposes. It was named after the Oak of Honor that marked the boundary of lands belonging to the Honour of Gloucester. The most famous story in its history is that Elizabeth I rested under an oak at the summit in 1602, and the third successive specimen planted in 1905 remains today. In 1896 the hill was enclosed when the adjacent Golf Club rented the land, but following an active local protest it was eventually opened as a public park in 1905, the LCC General Powers Bill of 1902 having enabled Camberwell Borough Council to compulsorily purchase the land as public open space.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU067",
+                "size": 17.77
             },
             "geometry": {
                 "coordinates": [
@@ -2855,7 +3392,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Holly Grove Shrubbery"
+                "name": "Holly Grove Shrubbery",
+                "other_names": "South Grove Shrubbery",
+                "borough": "Southwark",
+                "latitude": 51.47011,
+                "longitude": -0.07111,
+                "status": "Open",
+                "year_opened": 1897,
+                "period_opened": "1875-1899",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Holly Grove Shrubbery is a Victorian shrubbery with a serpentine boundary with a footpath winding through it, of some 250 yards in length. The shrubbery adjoins the nearby listed houses in Holly Grove built between 1816 and 1822, fronted by cast iron railings. The land between South Grove and the rear of houses in Elm Grove was purchased by Camberwell Borough Council in 1896 for £966, which represented paving charges from which the owners were released, and the land was laid out as a shrubbery with the pathway along its length and opened to the public in 1897. It was extended In 1902 when further land was purchased for £350.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU039",
+                "size": 0.89
             },
             "geometry": {
                 "coordinates": [
@@ -2912,7 +3462,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Bramcote Park"
+                "name": "Bramcote Park",
+                "other_names": "Varcoe Road Recreation Ground",
+                "borough": "Southwark",
+                "latitude": 51.4855,
+                "longitude": -0.05632,
+                "status": "Open",
+                "year_opened": 1906,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "The site was purchased by Camberwell Borough Council in 1905 for a sum of £2,000 and Varcoe Road Recreation Ground was opened to the public in 1906. It is protected by the London Squares and Enclosures (Preservation) Act of 1906. Now privately owned, it is a scrubby area with grass, paths and some trees.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU097",
+                "size": 0.45
             },
             "geometry": {
                 "coordinates": [
@@ -2945,7 +3508,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Buckenham Square Garden"
+                "name": "Buckenham Square Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49477,
+                "longitude": -0.08722,
+                "status": "Defunct",
+                "year_opened": 1906,
+                "period_opened": "1900-1924",
+                "alteration": "Shrank",
+                "period_destroyed": "Uncertain",
+                "first_list_appearence": 1921,
+                "brief_history": "By drawing comparisons between an Ordnance Survey map dated 1944-1972 with Open Street Maps (2024) we were able to determine that Buckenham Square has been incorporated into St Saviour's and St Olave's Church of England School and as such no longer exists or the land that it stood on is no longer accessible to the public.",
+                "history_link": "",
+                "size": 0.08
             },
             "geometry": {
                 "coordinates": [
@@ -2994,7 +3570,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Marlborough Sports Garden"
+                "name": "Marlborough Sports Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.5031,
+                "longitude": -0.09287,
+                "status": "Open",
+                "year_opened": 1921,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "The history of the Marlborough Sports Garden owes its existence to Consuelo Vanderbilt Balsan, Duchess of Marlborough, who decreed that “Surplus land from an insanitary area between Borough High Street and Red Cross Street should be used as a recreation ground”. The park was opened in 1921.",
+                "history_link": "https://www.bost.org.uk/marlborough-sports-garden",
+                "size": 0.83
             },
             "geometry": {
                 "coordinates": [
@@ -3039,7 +3628,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Paragon Garden"
+                "name": "Paragon Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49383,
+                "longitude": -0.08783,
+                "status": "Open",
+                "year_opened": 1921,
+                "period_opened": "1900-1924",
+                "alteration": "Shrank",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "This was originally the communal garden of The Paragon, a late C18th crescent. When the houses were demolished and replaced by a Board School the garden survived and was purchased by the Vestry of St George the Martyr. It was laid out as public garden by the MPGA and once had a bandstand. Part of the site was later lost as a result of road schemes when the Bricklayers Arms Flyover was built in 1970 although a strip of land was added to the west as compensation and planted with shrubs. Improvements have been carried out since 2009 as part of wider improvements to the Salisbury Row neighbourhood.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU068",
+                "size": 0.62
             },
             "geometry": {
                 "coordinates": [
@@ -3108,7 +3710,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "St. Peter's Churchyard"
+                "name": "St. Peter's Churchyard",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48646,
+                "longitude": -0.09299,
+                "status": "Open",
+                "year_opened": 1895,
+                "period_opened": "1875-1899",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "The old churchyard was laid out by the MPGA with grass and seats, the headstones largely placed around the edge of the garden. Father Horsley also established a small zoo on the rectory garden, nicknamed the Monkey Park, which was landscaped as a community garden with the participation of the local community, a new bench sculpture unveiled in 2005.",
+                "history_link": "https://www.parksandgardens.org/places/st-peters-churchyard-walworth",
+                "size": 1.57
             },
             "geometry": {
                 "coordinates": [
@@ -3145,7 +3760,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sutherland Square Gardens"
+                "name": "Sutherland Square Gardens",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48559,
+                "longitude": -0.09733,
+                "status": "Open",
+                "year_opened": 1923,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "",
+                "history_link": "",
+                "size": 0.11
             },
             "geometry": {
                 "coordinates": [
@@ -3202,7 +3830,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "West Square Garden"
+                "name": "West Square Garden",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.49518,
+                "longitude": -0.10551,
+                "status": "Open",
+                "year_opened": 1910,
+                "period_opened": "1900-1924",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "The land that became West Square was first leased out in 1791 by the owners, the Temple West family, from whom the square gets its name, the terraces were built by 1794 with a garden laid out by 1799. When the Bethlehem Royal Hospital moved to St George's Fields, its senior hospital staff needed accommodation nearby and West Square was laid out with terraces surrounding the garden. By 1813 it appears to have had a formal layout but it was much simplified by 1870. Threatened with development in the late C19th, the garden was saved for public open space by the MPGA in 1909, and laid out by their landscape gardener Madeline Agar. The cruciform layout was restored and the garden opened to the public in 1910. In the centre is a rose garden with sundial; a tree was planted here on 14 September 1991 to celebrate the bicentenary of West Square. The garden at one point had 4 black mulberries.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU099&sitename=West+Square+Gardens",
+                "size": 0.89
             },
             "geometry": {
                 "coordinates": [
@@ -3251,7 +3892,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Burgess Park"
+                "name": "Burgess Park",
+                "other_names": "Sumner Road Recreation Ground, Addington Square Gardens",
+                "borough": "Southwark",
+                "latitude": 51.4833,
+                "longitude": -0.08213,
+                "status": "Open",
+                "year_opened": 1995,
+                "period_opened": "1975-1999",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": "n/a",
+                "brief_history": "Work began after WWII to provide the new public space that eventually became Burgess Park. It was the result of initiatives such as the Abercrombie Plan of 1943 and was created by demolishing numerous houses, streets, churches and factories, and infilling the disused Grand Surrey Canal. Existing green spaces were incorporated into the new North Camberwell Open Space, which by 1965 covered c.16 hectares. It was named Burgess Park in 1973 after Alderman Jessie Burgess, first lady Mayor of Camberwell. The fragmented open spaces were consolidated from 1982 onwards and in 1985/6 Southwark Council took over responsibility and began purchasing remaining properties and clearing the site, a process completed in 1995. Numerous projects have been undertaken, including planting 1000s of trees, provision of sports facilities, greening the canal route and creation of the lake. Within the park are the former Chumleigh Gardens Almshouses, which now house a café, meeting rooms as well as a World Garden and an English Garden. Due to the complex evolutionary nature of the formation of Burgess Park, the London Parkive has chosen to depict Burgess Parks opening date as 1995, at the point at which its consolidation was completed. You can refer to the areas that were opened before this time by viewing the map through the Alterations View Mode.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU012",
+                "size": 108.94
             },
             "geometry": {
                 "coordinates": [
@@ -3496,7 +4150,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Burgess Park"
+                "name": "Burgess Park",
+                "other_names": "Sumner Road Recreation Ground, Addington Square Gardens",
+                "borough": "Southwark",
+                "latitude": 51.4833,
+                "longitude": -0.08213,
+                "status": "Open",
+                "year_opened": 1995,
+                "period_opened": "1975-1999",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": "n/a",
+                "brief_history": "Work began after WWII to provide the new public space that eventually became Burgess Park. It was the result of initiatives such as the Abercrombie Plan of 1943 and was created by demolishing numerous houses, streets, churches and factories, and infilling the disused Grand Surrey Canal. Existing green spaces were incorporated into the new North Camberwell Open Space, which by 1965 covered c.16 hectares. It was named Burgess Park in 1973 after Alderman Jessie Burgess, first lady Mayor of Camberwell. The fragmented open spaces were consolidated from 1982 onwards and in 1985/6 Southwark Council took over responsibility and began purchasing remaining properties and clearing the site, a process completed in 1995. Numerous projects have been undertaken, including planting 1000s of trees, provision of sports facilities, greening the canal route and creation of the lake. Within the park are the former Chumleigh Gardens Almshouses, which now house a café, meeting rooms as well as a World Garden and an English Garden. Due to the complex evolutionary nature of the formation of Burgess Park, the London Parkive has chosen to depict Burgess Parks opening date as 1995, at the point at which its consolidation was completed. You can refer to the areas that were opened before this time by viewing the map through the Alterations View Mode.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU012",
+                "size": 108.94
             },
             "geometry": {
                 "coordinates": [
@@ -3710,156 +4377,24 @@
                 "type": "Polygon"
             }
         },
+        
         {
             "type": "Feature",
             "properties": {
-                "name": "Burgess Park"
-            },
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -0.07403968751088996,
-                            51.484388831301516
-                        ],
-                        [
-                            -0.07347694622325207,
-                            51.48437365968633
-                        ],
-                        [
-                            -0.07347290710447396,
-                            51.484874542266596
-                        ],
-                        [
-                            -0.07339537928274353,
-                            51.48487222730432
-                        ],
-                        [
-                            -0.07338629400771879,
-                            51.48496121844252
-                        ],
-                        [
-                            -0.07329387823571665,
-                            51.48498097281964
-                        ],
-                        [
-                            -0.07274687182146522,
-                            51.48494639980021
-                        ],
-                        [
-                            -0.07257814658331085,
-                            51.48615180627888
-                        ],
-                        [
-                            -0.07251981579236144,
-                            51.4862143254004
-                        ],
-                        [
-                            -0.07352884895280454,
-                            51.48661392395755
-                        ],
-                        [
-                            -0.07355438919265112,
-                            51.48657986918846
-                        ],
-                        [
-                            -0.07362703152620043,
-                            51.48575426923588
-                        ],
-                        [
-                            -0.07330194972104209,
-                            51.48568766219594
-                        ],
-                        [
-                            -0.07333947828880127,
-                            51.485010883906625
-                        ],
-                        [
-                            -0.07335620044992197,
-                            51.484994336649095
-                        ],
-                        [
-                            -0.07404458339868825,
-                            51.484990063658785
-                        ],
-                        [
-                            -0.07403968751088996,
-                            51.484388831301516
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Burgess Park"
-            },
-            "geometry": {
-                "coordinates": [
-                    [
-                        [
-                            -0.07395640827044758,
-                            51.48377947037042
-                        ],
-                        [
-                            -0.07392893852059501,
-                            51.48338689906325
-                        ],
-                        [
-                            -0.0739495260669969,
-                            51.48264403686437
-                        ],
-                        [
-                            -0.07346904613879701,
-                            51.48268551382145
-                        ],
-                        [
-                            -0.0733338844732998,
-                            51.48264970776299
-                        ],
-                        [
-                            -0.07303251878209949,
-                            51.48263022929618
-                        ],
-                        [
-                            -0.07295741774427711,
-                            51.48269425750135
-                        ],
-                        [
-                            -0.07272168077972196,
-                            51.48270330562252
-                        ],
-                        [
-                            -0.07263807241716336,
-                            51.482612618958996
-                        ],
-                        [
-                            -0.0722326532457771,
-                            51.48268402340139
-                        ],
-                        [
-                            -0.07261745884841275,
-                            51.48365566296991
-                        ],
-                        [
-                            -0.07311846828301327,
-                            51.483781353420255
-                        ],
-                        [
-                            -0.07395640827044758,
-                            51.48377947037042
-                        ]
-                    ]
-                ],
-                "type": "Polygon"
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "name": "Addington Square Garden"
+                "name": "Addington Square Gardens (Burgess Park)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48099,
+                "longitude": -0.09224,
+                "status": "Open",
+                "year_opened": "Before 1850",
+                "period_opened": "Before 1850",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Addington Square Garden is now a part of Burgess Park. Addington Square was built between 1810 and 1850, when the area was still mostly fields and market gardens, and became home to the well-to-do escaping densely populated central London. It had a canal and two swimming baths by 1840…. The square forms part of the earliest housing to be developed in the park area, dating from the beginning of the 19th century. The square was laid out some time between 1800 and 1810. The fourth, northern, side of the square was home to one of south London’s first swimming baths, which opened in 1820. Another outdoor pool opened a few years later, also on the canal bank, behind the houses on the east side of the square… At the peak of the squares decline, in the 1960s, South London gangsters the Richardson brothers, Charlie and Eddie, established Peckford scrap merchants in nearby New Church Road, and a base in the square, at number 33. They later spent a lot of time in gaol, and their exploits have been documented in books, films and an art show in the square. The council refuse depot on the north side later formed the basis of the first piece of recreational land in the area, which was eventually to become Burgess Park.",
+                "history_link": "https://bridgetonowhere.friendsofburgesspark.org.uk/the-story-of-burgess-park-heritage-trail/heritage-trail-a-l/addington-square/#:~:text=Addington Square was built between,was born at number 13.",
+                "size": 0.33
             },
             "geometry": {
                 "coordinates": [
@@ -3936,7 +4471,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Sumner Road Recreation Ground"
+                "name": "Sumner Road Recreation Ground (Burgress Park)",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.48308,
+                "longitude": -0.07371,
+                "status": "Open",
+                "year_opened": 1900,
+                "period_opened": "1900-1924",
+                "alteration": "Expanded",
+                "period_destroyed": "n/a",
+                "first_list_appearence": 1921,
+                "brief_history": "Burgess Park was created by demolishing numerous houses, streets, churches and factories such as Robert White's famous lemonade factory, and by infilling the disused Grand Surrey Canal. At that time there were a number of green spaces already in existence and the LCC General Powers Act of 1952 contained provision for these to be transferred from the Metropolitan Borough of Camberwell to the LCC for incorporation into the North Camberwell Open Space including Sumner Road Recreation Ground, which had opened in 1900.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU012",
+                "size": 0.36
             },
             "geometry": {
                 "coordinates": [
@@ -3969,7 +4517,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Hatcham Gardens"
+                "name": "Hatcham Gardens",
+                "other_names": "",
+                "borough": "Lewisham",
+                "latitude": 51.47512,
+                "longitude": -0.05181,
+                "status": "Under Threat",
+                "year_opened": 1959,
+                "period_opened": "1950-1974",
+                "alteration": "Shrank",
+                "period_destroyed": "n/a",
+                "first_list_appearence": "n/a",
+                "brief_history": "Hatcham Gardens is currently under threat. Part of the park was flattened to accommodate housing development next door to the park with the understanding that the park would be restored to its former state after the development had completed. Development was completed in 2020 but the areas closed for development are still boarded up. There is no indication as to when the park will be restored to its former state.",
+                "history_link": "https://www.theguardian.com/environment/2023/jun/29/most-children-live-flats-park-boarded-up-developers",
+                "size": 1.07
             },
             "geometry": {
                 "coordinates": [
@@ -4018,7 +4579,20 @@
         {
             "type": "Feature",
             "properties": {
-                "name": "Mint Street Park"
+                "name": "Mint Street Park",
+                "other_names": "",
+                "borough": "Southwark",
+                "latitude": 51.502,
+                "longitude": -0.09644,
+                "status": "Open",
+                "year_opened": "Unknown",
+                "period_opened": "1975-1999",
+                "alteration": "Unchanged",
+                "period_destroyed": "n/a",
+                "first_list_appearence": "n/a",
+                "brief_history": "Mint Street Park was laid out on the site previously occupied by the Evelina Hospital for Sick Children founded by Baron Frederick de Rothschild in memory of his wife Evelina who died in premature childbirth in 1866. It opened in 1869 and remained here until 1976 although it was later re-established in a new building next to St Thomas' Hospital. After the hospital closed the buildings were demolished and the site became green space. Mint Street Park was re-landscaped by Bankside Open Spaces Trust (BOST) working with local people to carry out improvements that included new landscaping, access and lighting. Raised beds were created and planted by the gardening club working with Putting Down Roots, a project run by St Mungo's Association working with homeless people. Mint Street Park is now s a local play space and venue for community events, and includes an adventure play facility.",
+                "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU060",
+                "size": 2.12
             },
             "geometry": {
                 "coordinates": [
@@ -4143,2051 +4717,6 @@
                 ],
                 "type": "Polygon"
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-              "name": "Bermondsey Spa Gardens",
-              "area": "15405.558039246083"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.07529209535220524,
-                    51.49488162886414
-                  ],
-                  [
-                    -0.07529544114431297,
-                    51.494817752391434
-                  ],
-                  [
-                    -0.07523434867425582,
-                    51.4946798121865
-                  ],
-                  [
-                    -0.07511695937708077,
-                    51.494552886344906
-                  ],
-                  [
-                    -0.07485865680227374,
-                    51.49442593391806
-                  ],
-                  [
-                    -0.07456696846398063,
-                    51.49437780042735
-                  ],
-                  [
-                    -0.07435682246606447,
-                    51.494267964768646
-                  ],
-                  [
-                    -0.0742599079853755,
-                    51.49426096982081
-                  ],
-                  [
-                    -0.07409342210321337,
-                    51.494261112623185
-                  ],
-                  [
-                    -0.07399450960127299,
-                    51.49420643083289
-                  ],
-                  [
-                    -0.07361312412419012,
-                    51.494462065519464
-                  ],
-                  [
-                    -0.07353109881558327,
-                    51.49453473757588
-                  ],
-                  [
-                    -0.07349372151831801,
-                    51.494683853128485
-                  ],
-                  [
-                    -0.07361450454190567,
-                    51.49553115140255
-                  ],
-                  [
-                    -0.07370712606767203,
-                    51.49558000087466
-                  ],
-                  [
-                    -0.07469158340571537,
-                    51.49536435968017
-                  ],
-                  [
-                    -0.07621752623409796,
-                    51.495013661979314
-                  ],
-                  [
-                    -0.07622501428948486,
-                    51.49492188898857
-                  ],
-                  [
-                    -0.07618032987589037,
-                    51.49486958017036
-                  ],
-                  [
-                    -0.07619155448645183,
-                    51.494923663750434
-                  ],
-                  [
-                    -0.07529209535220524,
-                    51.49488162886414
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Bermondsey Square",
-              "area": "1625.3963434047225"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.08130003302764384,
-                    51.49740561475021
-                  ],
-                  [
-                    -0.08095999821887914,
-                    51.49737755637197
-                  ],
-                  [
-                    -0.0807642971684035,
-                    51.497462694778044
-                  ],
-                  [
-                    -0.08078185849069591,
-                    51.49747714398889
-                  ],
-                  [
-                    -0.08071986603900978,
-                    51.49750352171296
-                  ],
-                  [
-                    -0.08070325014222131,
-                    51.497488311871535
-                  ],
-                  [
-                    -0.08050688833267498,
-                    51.49757333146027
-                  ],
-                  [
-                    -0.08049520559283772,
-                    51.49756998514181
-                  ],
-                  [
-                    -0.08049114567133611,
-                    51.497588792385905
-                  ],
-                  [
-                    -0.08051462117636136,
-                    51.49759157715089
-                  ],
-                  [
-                    -0.08050197022736848,
-                    51.497627274826044
-                  ],
-                  [
-                    -0.08057217903713515,
-                    51.497634600477085
-                  ],
-                  [
-                    -0.08057816815384451,
-                    51.497617226387284
-                  ],
-                  [
-                    -0.08063331270944807,
-                    51.49762579922641
-                  ],
-                  [
-                    -0.08062510927446855,
-                    51.49764290040652
-                  ],
-                  [
-                    -0.08067171296701452,
-                    51.497649237214084
-                  ],
-                  [
-                    -0.08068011677452502,
-                    51.49763035506123
-                  ],
-                  [
-                    -0.08072842210219741,
-                    51.49763815047656
-                  ],
-                  [
-                    -0.08072301873395149,
-                    51.49765576622014
-                  ],
-                  [
-                    -0.08076862269593676,
-                    51.497662340202595
-                  ],
-                  [
-                    -0.08077485709656186,
-                    51.49764551415209
-                  ],
-                  [
-                    -0.0808295464192972,
-                    51.497653320258664
-                  ],
-                  [
-                    -0.08082221260119146,
-                    51.49766935683543
-                  ],
-                  [
-                    -0.08086907642233554,
-                    51.497676360191065
-                  ],
-                  [
-                    -0.08087627953536129,
-                    51.49765974209103
-                  ],
-                  [
-                    -0.0809293544411237,
-                    51.49766635835754
-                  ],
-                  [
-                    -0.0809188479949247,
-                    51.49768401047221
-                  ],
-                  [
-                    -0.08094427001245792,
-                    51.49768682239405
-                  ],
-                  [
-                    -0.08093517454409781,
-                    51.49771349799098
-                  ],
-                  [
-                    -0.08092668266780867,
-                    51.49771252683732
-                  ],
-                  [
-                    -0.08089545220188302,
-                    51.49780549749773
-                  ],
-                  [
-                    -0.08106707457770503,
-                    51.49783029501245
-                  ],
-                  [
-                    -0.0813599711893686,
-                    51.497852388931015
-                  ],
-                  [
-                    -0.08127279789476813,
-                    51.49782295104215
-                  ],
-                  [
-                    -0.08126793540410843,
-                    51.49782596279902
-                  ],
-                  [
-                    -0.08116094423539313,
-                    51.497789135807416
-                  ],
-                  [
-                    -0.08120048179838409,
-                    51.497745198796345
-                  ],
-                  [
-                    -0.08118399541591265,
-                    51.49773859503526
-                  ],
-                  [
-                    -0.08126462924825359,
-                    51.49755667384599
-                  ],
-                  [
-                    -0.08127254221088136,
-                    51.497557827605974
-                  ],
-                  [
-                    -0.0813057558176316,
-                    51.49748005156793
-                  ],
-                  [
-                    -0.08132856043543929,
-                    51.49744047502279
-                  ],
-                  [
-                    -0.08129635552539985,
-                    51.49743437406066
-                  ],
-                  [
-                    -0.08130003302764384,
-                    51.49740561475021
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Tanner Street Park",
-              "area": "8100.9300476359"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.07942106826319383,
-                    51.499778394209486
-                  ],
-                  [
-                    -0.07938065335460563,
-                    51.49991155251658
-                  ],
-                  [
-                    -0.07941051732504197,
-                    51.50013525557575
-                  ],
-                  [
-                    -0.07982346497807546,
-                    51.50026134263576
-                  ],
-                  [
-                    -0.08020208510357302,
-                    51.50032028507162
-                  ],
-                  [
-                    -0.08116950681360739,
-                    51.50039233499659
-                  ],
-                  [
-                    -0.08119870432449476,
-                    51.50027991177017
-                  ],
-                  [
-                    -0.08141122044444679,
-                    51.500295185366895
-                  ],
-                  [
-                    -0.08136592206677884,
-                    51.50041646779128
-                  ],
-                  [
-                    -0.0816390798194994,
-                    51.50040596781881
-                  ],
-                  [
-                    -0.08165530118196596,
-                    51.5003841644323
-                  ],
-                  [
-                    -0.08149731105036163,
-                    51.50000839697625
-                  ],
-                  [
-                    -0.08145454006369907,
-                    51.500019088174234
-                  ],
-                  [
-                    -0.08144229738369894,
-                    51.49997077926814
-                  ],
-                  [
-                    -0.08130872794453171,
-                    51.49999574655951
-                  ],
-                  [
-                    -0.08128885146263067,
-                    51.49994651974044
-                  ],
-                  [
-                    -0.08084144343178684,
-                    51.49996478376866
-                  ],
-                  [
-                    -0.08067494456714111,
-                    51.49995114748066
-                  ],
-                  [
-                    -0.0806668623808816,
-                    51.499871346437295
-                  ],
-                  [
-                    -0.08060279888126508,
-                    51.499860904881544
-                  ],
-                  [
-                    -0.08063483461359737,
-                    51.49975034168143
-                  ],
-                  [
-                    -0.07983351618175846,
-                    51.49969532409424
-                  ],
-                  [
-                    -0.07982832144857781,
-                    51.49970626265166
-                  ],
-                  [
-                    -0.07974420615293516,
-                    51.49969662647494
-                  ],
-                  [
-                    -0.07973854122597528,
-                    51.49971752053727
-                  ],
-                  [
-                    -0.07961734365884154,
-                    51.499705079410404
-                  ],
-                  [
-                    -0.07959530243272925,
-                    51.49977001183415
-                  ],
-                  [
-                    -0.07949313555337775,
-                    51.49975564306949
-                  ],
-                  [
-                    -0.07948893556401153,
-                    51.4997726714178
-                  ],
-                  [
-                    -0.07946564117927742,
-                    51.49976953595203
-                  ],
-                  [
-                    -0.0794547824075012,
-                    51.4997789678599
-                  ],
-                  [
-                    -0.0794244784388114,
-                    51.499773593705015
-                  ],
-                  [
-                    -0.07942106826319383,
-                    51.499778394209486
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "id": "EXP_af41bdf6-1944-468d-a11e-012da56587de",
-            "properties": {
-              "name": "Belair Park",
-              "area": "160656.34259247134"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.08982406630134568,
-                    51.44519037601092
-                  ],
-                  [
-                    -0.09375417269230817,
-                    51.445093145895704
-                  ],
-                  [
-                    -0.09139062618083449,
-                    51.44123004105972
-                  ],
-                  [
-                    -0.08993394994000548,
-                    51.4412122394152
-                  ],
-                  [
-                    -0.08947971534860154,
-                    51.44116942810437
-                  ],
-                  [
-                    -0.08930237250326058,
-                    51.44120172477088
-                  ],
-                  [
-                    -0.08934388849898663,
-                    51.441959555736595
-                  ],
-                  [
-                    -0.08868414866021887,
-                    51.44335840713182
-                  ],
-                  [
-                    -0.08730780988073938,
-                    51.44544303991531
-                  ],
-                  [
-                    -0.08716660783528771,
-                    51.445877491131824
-                  ],
-                  [
-                    -0.08644232273043656,
-                    51.446908330326934
-                  ],
-                  [
-                    -0.08795414336927251,
-                    51.44727678282602
-                  ],
-                  [
-                    -0.08792655097946214,
-                    51.44738622233695
-                  ],
-                  [
-                    -0.0888067264959722,
-                    51.44769621307891
-                  ],
-                  [
-                    -0.08978241465839844,
-                    51.44540583722632
-                  ],
-                  [
-                    -0.08982406630134568,
-                    51.44519037601092
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Mayflower Park",
-              "area": "10775.585666811503"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.04360304970828962,
-                    51.505091158692046
-                  ],
-                  [
-                    -0.04412574396944335,
-                    51.50494380933612
-                  ],
-                  [
-                    -0.04496925326018981,
-                    51.504636867871184
-                  ],
-                  [
-                    -0.043045669608206875,
-                    51.50382733497195
-                  ],
-                  [
-                    -0.04243689366107747,
-                    51.50439921421939
-                  ],
-                  [
-                    -0.043770269878586274,
-                    51.50492439928604
-                  ],
-                  [
-                    -0.04360304970828962,
-                    51.505091158692046
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "St. James Churchard (Bermondsey)",
-              "area": "6543.436284340697"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.066660977995139,
-                    51.497612142663485
-                  ],
-                  [
-                    -0.06759030290099621,
-                    51.49732942083094
-                  ],
-                  [
-                    -0.06760668072505122,
-                    51.49728495684865
-                  ],
-                  [
-                    -0.06726004263884328,
-                    51.49646419907301
-                  ],
-                  [
-                    -0.06626577154491581,
-                    51.49663269402053
-                  ],
-                  [
-                    -0.0664213931971105,
-                    51.49698721121545
-                  ],
-                  [
-                    -0.06703159513661329,
-                    51.496889797730326
-                  ],
-                  [
-                    -0.06705780472568264,
-                    51.496929775296195
-                  ],
-                  [
-                    -0.06711922592194487,
-                    51.496914743245114
-                  ],
-                  [
-                    -0.06716093626240216,
-                    51.49701783236902
-                  ],
-                  [
-                    -0.06710148183393672,
-                    51.49703572461571
-                  ],
-                  [
-                    -0.06711612217707366,
-                    51.49707680240687
-                  ],
-                  [
-                    -0.06648807716804803,
-                    51.49717223779229
-                  ],
-                  [
-                    -0.066660977995139,
-                    51.497612142663485
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "St. George’s Churchyard (Camberwell)",
-              "area": "2279.348665309875"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.08528912347272571,
-                    51.48165639809454
-                  ],
-                  [
-                    -0.08529780750058735,
-                    51.48160702343962
-                  ],
-                  [
-                    -0.08541628261886687,
-                    51.48160096651938
-                  ],
-                  [
-                    -0.0854513379210533,
-                    51.48157895374847
-                  ],
-                  [
-                    -0.0854451349810319,
-                    51.481560158543
-                  ],
-                  [
-                    -0.08421045832889887,
-                    51.4815845477004
-                  ],
-                  [
-                    -0.08434444406079245,
-                    51.481691394476286
-                  ],
-                  [
-                    -0.08435451064404086,
-                    51.481962402626415
-                  ],
-                  [
-                    -0.0853135379241767,
-                    51.481940389910285
-                  ],
-                  [
-                    -0.08530463574572981,
-                    51.481837953562895
-                  ],
-                  [
-                    -0.08491651450916393,
-                    51.481848784577764
-                  ],
-                  [
-                    -0.08490604479865588,
-                    51.48180070771029
-                  ],
-                  [
-                    -0.08482847059843106,
-                    51.481791387733644
-                  ],
-                  [
-                    -0.08479915000419667,
-                    51.48176627661529
-                  ],
-                  [
-                    -0.08481336648568177,
-                    51.481739958653144
-                  ],
-                  [
-                    -0.08487748188126518,
-                    51.48172390408809
-                  ],
-                  [
-                    -0.08486437265300358,
-                    51.48169112775308
-                  ],
-                  [
-                    -0.08490695081872869,
-                    51.48168954253011
-                  ],
-                  [
-                    -0.08489989796589231,
-                    51.48166612908944
-                  ],
-                  [
-                    -0.0850110772488345,
-                    51.481661969729196
-                  ],
-                  [
-                    -0.08528912347272571,
-                    51.48165639809454
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Holy Trinity Churchyard (Rotherhithe)",
-              "area": "5453.095536364945"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.03524762968024707,
-                    51.50097118317027
-                  ],
-                  [
-                    -0.035137497816580474,
-                    51.50022020736901
-                  ],
-                  [
-                    -0.03507242687709381,
-                    51.50021600654465
-                  ],
-                  [
-                    -0.03488242332496115,
-                    51.50028448206785
-                  ],
-                  [
-                    -0.034677041949865754,
-                    51.50006157485343
-                  ],
-                  [
-                    -0.03439613413678643,
-                    51.50011483601608
-                  ],
-                  [
-                    -0.03447786830613396,
-                    51.500482819757416
-                  ],
-                  [
-                    -0.03421256440106428,
-                    51.50050620171961
-                  ],
-                  [
-                    -0.03428689436388546,
-                    51.50099702012268
-                  ],
-                  [
-                    -0.03524762968024707,
-                    51.50097118317027
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Grove Lane Nursery",
-              "area": "5052.813190193958"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.08908723086410693,
-                    51.47036291638841
-                  ],
-                  [
-                    -0.09008587222763134,
-                    51.470165385340714
-                  ],
-                  [
-                    -0.0896785200365754,
-                    51.46956569401459
-                  ],
-                  [
-                    -0.08879573275400952,
-                    51.469690813837836
-                  ],
-                  [
-                    -0.08908723086410693,
-                    51.47036291638841
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "Feature",
-            "properties": {
-              "name": "Dulwich Village Shrubbery",
-              "area": "578.9815121144019"
-            },
-            "geometry": {
-              "type": "Polygon",
-              "coordinates": [
-                [
-                  [
-                    -0.08787743724656712,
-                    51.45298094083915
-                  ],
-                  [
-                    -0.08787641085377522,
-                    51.452966769894
-                  ],
-                  [
-                    -0.08781130917676283,
-                    51.45294785310282
-                  ],
-                  [
-                    -0.08777523565823574,
-                    51.45292333316081
-                  ],
-                  [
-                    -0.08747507387911536,
-                    51.4525718997988
-                  ],
-                  [
-                    -0.08744470517979927,
-                    51.45260381608752
-                  ],
-                  [
-                    -0.0874404080522204,
-                    51.45268203210449
-                  ],
-                  [
-                    -0.08748301465925876,
-                    51.452795650417755
-                  ],
-                  [
-                    -0.08754916446297614,
-                    51.452942390349556
-                  ],
-                  [
-                    -0.08763097948414163,
-                    51.453005290454875
-                  ],
-                  [
-                    -0.08772929932316653,
-                    51.45302016946533
-                  ],
-                  [
-                    -0.08780902600779063,
-                    51.45300767231235
-                  ],
-                  [
-                    -0.08787743724656712,
-                    51.45298094083915
-                  ]
-                ]
-              ]
-            }
-          },
-          {
-            "type": "FeatureCollection",
-            "features": [
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Brenchley Gardens",
-                  "area": "28182.74540480941",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.056354767913880464,
-                        51.450028236073365
-                      ],
-                      [
-                        -0.055126466936217276,
-                        51.45103756019553
-                      ],
-                      [
-                        -0.05429015932647625,
-                        51.45164222818456
-                      ],
-                      [
-                        -0.05368690048945403,
-                        51.451989042665474
-                      ],
-                      [
-                        -0.052951961435871275,
-                        51.45234385932257
-                      ],
-                      [
-                        -0.05254486266600716,
-                        51.45250643180628
-                      ],
-                      [
-                        -0.049827664214050056,
-                        51.45337340786941
-                      ],
-                      [
-                        -0.04982087011106198,
-                        51.453473724098174
-                      ],
-                      [
-                        -0.05010749741868966,
-                        51.453800422623594
-                      ],
-                      [
-                        -0.05028000678405414,
-                        51.45371920234266
-                      ],
-                      [
-                        -0.05022267532422144,
-                        51.45365288402366
-                      ],
-                      [
-                        -0.05099351019160032,
-                        51.453362518854064
-                      ],
-                      [
-                        -0.051043142356769,
-                        51.45339547622101
-                      ],
-                      [
-                        -0.05151105391159744,
-                        51.453176909207166
-                      ],
-                      [
-                        -0.05256488929894381,
-                        51.45280115124054
-                      ],
-                      [
-                        -0.05314176228778523,
-                        51.452603444644986
-                      ],
-                      [
-                        -0.05401180007953691,
-                        51.452234595556725
-                      ],
-                      [
-                        -0.05413266534827657,
-                        51.45219841150768
-                      ],
-                      [
-                        -0.055023237990640884,
-                        51.451759227918544
-                      ],
-                      [
-                        -0.05535427421188727,
-                        51.4515690529584
-                      ],
-                      [
-                        -0.05544337846449693,
-                        51.45150991208621
-                      ],
-                      [
-                        -0.05567516172519101,
-                        51.451379855225156
-                      ],
-                      [
-                        -0.055793716064054616,
-                        51.45133765285447
-                      ],
-                      [
-                        -0.0559848100758575,
-                        51.45116670152021
-                      ],
-                      [
-                        -0.05652480878588375,
-                        51.45085553236169
-                      ],
-                      [
-                        -0.05729935035742389,
-                        51.45050656952238
-                      ],
-                      [
-                        -0.057489079400060594,
-                        51.450399835991476
-                      ],
-                      [
-                        -0.057474609403979644,
-                        51.45039618443184
-                      ],
-                      [
-                        -0.05650772945765682,
-                        51.450008936800316
-                      ],
-                      [
-                        -0.056354767913880464,
-                        51.450028236073365
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Shuttleworth Park",
-                  "area": "2729.8570786275827",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.06152328578912525,
-                        51.49211420337015
-                      ],
-                      [
-                        -0.0615208334412821,
-                        51.49187835838387
-                      ],
-                      [
-                        -0.06130435837768224,
-                        51.49144127451525
-                      ],
-                      [
-                        -0.060664034351054545,
-                        51.49157335794081
-                      ],
-                      [
-                        -0.061066972028264166,
-                        51.49204842492733
-                      ],
-                      [
-                        -0.06113702891909565,
-                        51.49207507461752
-                      ],
-                      [
-                        -0.06152328578912525,
-                        51.49211420337015
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Leathermarket Gardens",
-                  "area": "11414.43911070802",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.08531952287062358,
-                        51.5012413092506
-                      ],
-                      [
-                        -0.0853566772826392,
-                        51.501330790096034
-                      ],
-                      [
-                        -0.0855457708415198,
-                        51.501312930284776
-                      ],
-                      [
-                        -0.08556666643166283,
-                        51.50130811383077
-                      ],
-                      [
-                        -0.08544292705043892,
-                        51.5010276990102
-                      ],
-                      [
-                        -0.08535111843663908,
-                        51.50086965667583
-                      ],
-                      [
-                        -0.08535042482893195,
-                        51.500841496971525
-                      ],
-                      [
-                        -0.0850915535700058,
-                        51.50082622975372
-                      ],
-                      [
-                        -0.08511017230526348,
-                        51.5006912155332
-                      ],
-                      [
-                        -0.0849618927712453,
-                        51.50067242406979
-                      ],
-                      [
-                        -0.08496955787468724,
-                        51.50065280879425
-                      ],
-                      [
-                        -0.08492293730015485,
-                        51.50064790422362
-                      ],
-                      [
-                        -0.08488248928198512,
-                        51.50076917648088
-                      ],
-                      [
-                        -0.08453156684420654,
-                        51.50072289475237
-                      ],
-                      [
-                        -0.08455810851331591,
-                        51.50064120370944
-                      ],
-                      [
-                        -0.0839326336252944,
-                        51.500573060270696
-                      ],
-                      [
-                        -0.08396689692288342,
-                        51.50046204390348
-                      ],
-                      [
-                        -0.08370747897206054,
-                        51.50042933588839
-                      ],
-                      [
-                        -0.08268069687708891,
-                        51.50045272735988
-                      ],
-                      [
-                        -0.08250406026790542,
-                        51.50045770019562
-                      ],
-                      [
-                        -0.08244548219062459,
-                        51.500462789775014
-                      ],
-                      [
-                        -0.08246791841967012,
-                        51.50057279182295
-                      ],
-                      [
-                        -0.08243485275867127,
-                        51.500584149221325
-                      ],
-                      [
-                        -0.08251251974479609,
-                        51.50071667174343
-                      ],
-                      [
-                        -0.08250327811088226,
-                        51.500744782752854
-                      ],
-                      [
-                        -0.0825267976412346,
-                        51.50078469124137
-                      ],
-                      [
-                        -0.0825645347308075,
-                        51.500776554528464
-                      ],
-                      [
-                        -0.08263820956735103,
-                        51.50093849507449
-                      ],
-                      [
-                        -0.08339819204023964,
-                        51.500838176846024
-                      ],
-                      [
-                        -0.08356855752948959,
-                        51.500855353322116
-                      ],
-                      [
-                        -0.08356738482949788,
-                        51.500883952811876
-                      ],
-                      [
-                        -0.08374143667909321,
-                        51.50092116816174
-                      ],
-                      [
-                        -0.08373274811718982,
-                        51.50100385153915
-                      ],
-                      [
-                        -0.08400181082916643,
-                        51.501030312735594
-                      ],
-                      [
-                        -0.08394580859750894,
-                        51.5012427943622
-                      ],
-                      [
-                        -0.08428026196759322,
-                        51.5012764927227
-                      ],
-                      [
-                        -0.08430089145163117,
-                        51.50117327267978
-                      ],
-                      [
-                        -0.08417496102101366,
-                        51.50115484530588
-                      ],
-                      [
-                        -0.08419099228616045,
-                        51.501077663795805
-                      ],
-                      [
-                        -0.08448803467761123,
-                        51.5011130494926
-                      ],
-                      [
-                        -0.08447137240726248,
-                        51.50119354641014
-                      ],
-                      [
-                        -0.0846315205899472,
-                        51.501207497708435
-                      ],
-                      [
-                        -0.08461225785842594,
-                        51.50129293761327
-                      ],
-                      [
-                        -0.08484477770281017,
-                        51.501327391502336
-                      ],
-                      [
-                        -0.08502795549423768,
-                        51.50133897050751
-                      ],
-                      [
-                        -0.08506130924198912,
-                        51.501217178185975
-                      ],
-                      [
-                        -0.08531952287062358,
-                        51.5012413092506
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "King George’s Field",
-                  "area": "6348.436053364106",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.05137149057360104,
-                        51.4975019996848
-                      ],
-                      [
-                        -0.05178608912440672,
-                        51.497294646634295
-                      ],
-                      [
-                        -0.051830343288209284,
-                        51.497283462204535
-                      ],
-                      [
-                        -0.05191200210423442,
-                        51.49728568553759
-                      ],
-                      [
-                        -0.052186887409256436,
-                        51.49738976120169
-                      ],
-                      [
-                        -0.052098388600540016,
-                        51.497322856205926
-                      ],
-                      [
-                        -0.05225958908854463,
-                        51.49724736765436
-                      ],
-                      [
-                        -0.052139362303067364,
-                        51.49712480972727
-                      ],
-                      [
-                        -0.05276468656397422,
-                        51.49681237382675
-                      ],
-                      [
-                        -0.05246355042503549,
-                        51.4966173659502
-                      ],
-                      [
-                        -0.05235276373211766,
-                        51.496537161656725
-                      ],
-                      [
-                        -0.05229303627734901,
-                        51.49651686249806
-                      ],
-                      [
-                        -0.05222951500142952,
-                        51.49651376808199
-                      ],
-                      [
-                        -0.052191941321403076,
-                        51.496517851292495
-                      ],
-                      [
-                        -0.05208231924786742,
-                        51.49656136221008
-                      ],
-                      [
-                        -0.05103555160403208,
-                        51.49709289538312
-                      ],
-                      [
-                        -0.05118102178911507,
-                        51.49719641774163
-                      ],
-                      [
-                        -0.05104092362667623,
-                        51.49726109509761
-                      ],
-                      [
-                        -0.05137149057360104,
-                        51.4975019996848
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Honor Oak Sports Ground",
-                  "area": "58263.27059839004",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.03818562048518232,
-                        51.4508854895521
-                      ],
-                      [
-                        -0.03818647597137538,
-                        51.45088581397523
-                      ],
-                      [
-                        -0.038507416637672896,
-                        51.45083891061003
-                      ],
-                      [
-                        -0.03869418694259199,
-                        51.450893476800246
-                      ],
-                      [
-                        -0.038736413210904014,
-                        51.45089281858104
-                      ],
-                      [
-                        -0.03873921417596269,
-                        51.45069890082336
-                      ],
-                      [
-                        -0.038713081146470804,
-                        51.45067873670574
-                      ],
-                      [
-                        -0.038719863820106636,
-                        51.450616777204644
-                      ],
-                      [
-                        -0.03874442275502261,
-                        51.45059779624978
-                      ],
-                      [
-                        -0.03874016779103926,
-                        51.45048855736139
-                      ],
-                      [
-                        -0.038587118219288445,
-                        51.45048776702674
-                      ],
-                      [
-                        -0.03721311054331738,
-                        51.44909827691069
-                      ],
-                      [
-                        -0.03718734895425129,
-                        51.44906650628649
-                      ],
-                      [
-                        -0.036753940732856996,
-                        51.449051656299
-                      ],
-                      [
-                        -0.03676142078004812,
-                        51.44895375416166
-                      ],
-                      [
-                        -0.03614298179139941,
-                        51.44894415403758
-                      ],
-                      [
-                        -0.03614809916004414,
-                        51.449028034505965
-                      ],
-                      [
-                        -0.03583785542266828,
-                        51.44939428268467
-                      ],
-                      [
-                        -0.03583780763509051,
-                        51.44939450518903
-                      ],
-                      [
-                        -0.03583428066334119,
-                        51.44939227043446
-                      ],
-                      [
-                        -0.034778055632020057,
-                        51.450684903103614
-                      ],
-                      [
-                        -0.034757200168423534,
-                        51.45068003515056
-                      ],
-                      [
-                        -0.03468912333873096,
-                        51.450761901689525
-                      ],
-                      [
-                        -0.03474846706307363,
-                        51.45078282021474
-                      ],
-                      [
-                        -0.03490474935501374,
-                        51.450581987012065
-                      ],
-                      [
-                        -0.03570945239135164,
-                        51.45089512314178
-                      ],
-                      [
-                        -0.03570092389309407,
-                        51.45092757662724
-                      ],
-                      [
-                        -0.03627097735651956,
-                        51.450922440374846
-                      ],
-                      [
-                        -0.03629312193036291,
-                        51.45124779657627
-                      ],
-                      [
-                        -0.036364681801296136,
-                        51.451265734580765
-                      ],
-                      [
-                        -0.03641808865547643,
-                        51.45129085134361
-                      ],
-                      [
-                        -0.03644784209682472,
-                        51.45131576398318
-                      ],
-                      [
-                        -0.036660546159723,
-                        51.45203372435783
-                      ],
-                      [
-                        -0.03665008098884168,
-                        51.45210106555682
-                      ],
-                      [
-                        -0.03831431384481479,
-                        51.4525454786322
-                      ],
-                      [
-                        -0.038420730545403216,
-                        51.45242416619911
-                      ],
-                      [
-                        -0.03849435549851405,
-                        51.452254340363176
-                      ],
-                      [
-                        -0.03842542818684402,
-                        51.45190977185252
-                      ],
-                      [
-                        -0.038377128264520374,
-                        51.451706907739194
-                      ],
-                      [
-                        -0.038279598384767494,
-                        51.45129881891599
-                      ],
-                      [
-                        -0.03818562048518232,
-                        51.4508854895521
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "William Grigg’s Garden",
-                  "area": "683.9526667373937",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.07263974857703956,
-                        51.47077029328372
-                      ],
-                      [
-                        -0.07267343695034092,
-                        51.47121401623328
-                      ],
-                      [
-                        -0.07267790182200079,
-                        51.47122706968411
-                      ],
-                      [
-                        -0.07269253617449813,
-                        51.47123774838998
-                      ],
-                      [
-                        -0.07277358356595945,
-                        51.47123622829303
-                      ],
-                      [
-                        -0.0728044566138719,
-                        51.47122103552791
-                      ],
-                      [
-                        -0.07289007664165925,
-                        51.470761338932384
-                      ],
-                      [
-                        -0.07267143092127566,
-                        51.47076636959217
-                      ],
-                      [
-                        -0.07263974857703956,
-                        51.47077029328372
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Hankey Place Garden",
-                  "area": "798.645340471025",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.0892054274585686,
-                        51.50004586268798
-                      ],
-                      [
-                        -0.08938002701070347,
-                        51.49987800067005
-                      ],
-                      [
-                        -0.0893846938217992,
-                        51.4998486035948
-                      ],
-                      [
-                        -0.08921245931470975,
-                        51.49963543460161
-                      ],
-                      [
-                        -0.08912999060432336,
-                        51.499663742244884
-                      ],
-                      [
-                        -0.08915038449907903,
-                        51.499691614337365
-                      ],
-                      [
-                        -0.08889585742344433,
-                        51.499904010684105
-                      ],
-                      [
-                        -0.0889326415646128,
-                        51.49992314108029
-                      ],
-                      [
-                        -0.0892054274585686,
-                        51.50004586268798
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Grotto Place Playground",
-                  "area": "1862.4433527354265",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.10025650314001856,
-                        51.501938323924996
-                      ],
-                      [
-                        -0.10022425127508337,
-                        51.50177074650337
-                      ],
-                      [
-                        -0.10024493326047755,
-                        51.50175705962582
-                      ],
-                      [
-                        -0.09985286149535265,
-                        51.50161878746365
-                      ],
-                      [
-                        -0.0997100075345347,
-                        51.50153973955926
-                      ],
-                      [
-                        -0.09947920195910948,
-                        51.501762569160825
-                      ],
-                      [
-                        -0.09957524423145203,
-                        51.50202917407214
-                      ],
-                      [
-                        -0.09959288310538708,
-                        51.502026020510684
-                      ],
-                      [
-                        -0.10025650314001856,
-                        51.501938323924996
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Geraldine Mary Harmsworth Park",
-                  "area": "56931.374042932934",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.1071987143775003,
-                        51.49458319159738
-                      ],
-                      [
-                        -0.10629685579937118,
-                        51.495778612969566
-                      ],
-                      [
-                        -0.1058469292893618,
-                        51.496373446582204
-                      ],
-                      [
-                        -0.10659020653174858,
-                        51.49672611563669
-                      ],
-                      [
-                        -0.10662654579092316,
-                        51.49670488263873
-                      ],
-                      [
-                        -0.10662727239159686,
-                        51.4966921019143
-                      ],
-                      [
-                        -0.10653784485675695,
-                        51.49667519767684
-                      ],
-                      [
-                        -0.10654167349196199,
-                        51.49666230413591
-                      ],
-                      [
-                        -0.10660558234800814,
-                        51.496646206643334
-                      ],
-                      [
-                        -0.10660818789647905,
-                        51.496633714440485
-                      ],
-                      [
-                        -0.1067448503876608,
-                        51.496651285927406
-                      ],
-                      [
-                        -0.10671768076306958,
-                        51.49674178375924
-                      ],
-                      [
-                        -0.1067626972958446,
-                        51.49676354953056
-                      ],
-                      [
-                        -0.1067259091573804,
-                        51.49679098098601
-                      ],
-                      [
-                        -0.10768226669767555,
-                        51.49724629046554
-                      ],
-                      [
-                        -0.10779915307207792,
-                        51.497244777076766
-                      ],
-                      [
-                        -0.10895742127795857,
-                        51.49696010643994
-                      ],
-                      [
-                        -0.10895743908198227,
-                        51.496963010819464
-                      ],
-                      [
-                        -0.1108262606562891,
-                        51.496497636813466
-                      ],
-                      [
-                        -0.11120311217783206,
-                        51.496364702689405
-                      ],
-                      [
-                        -0.11122920094409064,
-                        51.49632332842554
-                      ],
-                      [
-                        -0.11123069867356464,
-                        51.49631675807456
-                      ],
-                      [
-                        -0.11080717481437403,
-                        51.495576995084676
-                      ],
-                      [
-                        -0.11080148082308164,
-                        51.49557995470245
-                      ],
-                      [
-                        -0.11076986068264101,
-                        51.49556596205367
-                      ],
-                      [
-                        -0.11078524149613778,
-                        51.49555484739483
-                      ],
-                      [
-                        -0.11075152730967863,
-                        51.49552844195814
-                      ],
-                      [
-                        -0.11071638960407879,
-                        51.495510384611066
-                      ],
-                      [
-                        -0.11021227797447096,
-                        51.49531638497966
-                      ],
-                      [
-                        -0.11014593144156615,
-                        51.495393341454644
-                      ],
-                      [
-                        -0.11004624437219426,
-                        51.49548147110573
-                      ],
-                      [
-                        -0.109990398358013,
-                        51.49551291411306
-                      ],
-                      [
-                        -0.10994691670629476,
-                        51.49551412050971
-                      ],
-                      [
-                        -0.10990241926805894,
-                        51.49556824305556
-                      ],
-                      [
-                        -0.10948237234257331,
-                        51.49535962987238
-                      ],
-                      [
-                        -0.10924561867229769,
-                        51.495281016015625
-                      ],
-                      [
-                        -0.10900944266376811,
-                        51.49520582893149
-                      ],
-                      [
-                        -0.10900946966861196,
-                        51.49520595735198
-                      ],
-                      [
-                        -0.1071987143775003,
-                        51.49458319159738
-                      ]
-                    ],
-                    [
-                      [
-                        -0.10903964096273479,
-                        51.495349435314495
-                      ],
-                      [
-                        -0.10904045886390622,
-                        51.495353324787516
-                      ],
-                      [
-                        -0.10903583075835192,
-                        51.49608877426936
-                      ],
-                      [
-                        -0.10901327621265831,
-                        51.49608893924351
-                      ],
-                      [
-                        -0.10900998729603283,
-                        51.49610570511928
-                      ],
-                      [
-                        -0.10904885714840401,
-                        51.49612775202643
-                      ],
-                      [
-                        -0.10905008529227321,
-                        51.496220389555745
-                      ],
-                      [
-                        -0.10904186436310791,
-                        51.496220740914595
-                      ],
-                      [
-                        -0.1090418735262121,
-                        51.49622062361369
-                      ],
-                      [
-                        -0.10895441528222964,
-                        51.49622145708836
-                      ],
-                      [
-                        -0.10895470044940055,
-                        51.49622446622571
-                      ],
-                      [
-                        -0.1089529121410784,
-                        51.4962245426558
-                      ],
-                      [
-                        -0.10895319100531786,
-                        51.496270032275696
-                      ],
-                      [
-                        -0.10876512165344887,
-                        51.496269008743106
-                      ],
-                      [
-                        -0.10876614787993852,
-                        51.496334241599826
-                      ],
-                      [
-                        -0.10846865647340301,
-                        51.496333153421205
-                      ],
-                      [
-                        -0.10846984608134308,
-                        51.49629763835813
-                      ],
-                      [
-                        -0.10828904392671959,
-                        51.496294026845206
-                      ],
-                      [
-                        -0.10828745470104341,
-                        51.49627597743489
-                      ],
-                      [
-                        -0.10819043754420327,
-                        51.49628599134235
-                      ],
-                      [
-                        -0.10819586565450408,
-                        51.49528481267207
-                      ],
-                      [
-                        -0.1088631748744223,
-                        51.49528055196308
-                      ],
-                      [
-                        -0.108917951406427,
-                        51.49532430631214
-                      ],
-                      [
-                        -0.10903964096273479,
-                        51.495349435314495
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "Fountain Green",
-                  "area": "226.71756138696514",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.06443242297504749,
-                        51.500675237797665
-                      ],
-                      [
-                        -0.06448116540816638,
-                        51.50054591943364
-                      ],
-                      [
-                        -0.06426605448980535,
-                        51.50051097163297
-                      ],
-                      [
-                        -0.0642225942055719,
-                        51.5006439271649
-                      ],
-                      [
-                        -0.06443242297504749,
-                        51.500675237797665
-                      ]
-                    ]
-                  ]
-                }
-              },
-              {
-                "type": "Feature",
-                "properties": {
-                  "name": "David Copperfield Gardens",
-                  "area": "2129.8458463364027",
-                  "shape year": 2024
-                },
-                "geometry": {
-                  "type": "Polygon",
-                  "coordinates": [
-                    [
-                      [
-                        -0.09517681711323407,
-                        51.49447163099846
-                      ],
-                      [
-                        -0.09519679217536507,
-                        51.494399970869516
-                      ],
-                      [
-                        -0.09517775827013883,
-                        51.494373695607734
-                      ],
-                      [
-                        -0.09454038651570443,
-                        51.494271008753095
-                      ],
-                      [
-                        -0.0933449406797985,
-                        51.49425859829701
-                      ],
-                      [
-                        -0.09315455722336713,
-                        51.494269291040666
-                      ],
-                      [
-                        -0.09305194906781611,
-                        51.49431276812416
-                      ],
-                      [
-                        -0.09304388659789041,
-                        51.49434714782751
-                      ],
-                      [
-                        -0.09427913226386517,
-                        51.49442515410228
-                      ],
-                      [
-                        -0.09517681711323407,
-                        51.49447163099846
-                      ]
-                    ]
-                  ]
-                }
-              }
-            ]
-          }
+        }
     ]
 }

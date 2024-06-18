@@ -3535,6 +3535,3502 @@
           ],
           "type": "Polygon"
         }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King Stairs Gardens",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49986,
+          "longitude": -0.05687,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1985,
+          "brief_history": "King's Stairs Gardens were added to  Southwark's public open space in the 1980s to the north of Southwark Park on reclaimed building land. The riverside park gets its name from King Edward III who used the stairs to access his manor house on Bermondsey Wall East. The park has lawns and steeply undulating hillocks with fine views over the river, and scattered trees include London plane. On the riverside promenade an obelisk was unveiled on 5 July 2002 by the Duke and Countess of Wessex in commemoration of the Queen's Jubilee.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU045"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05817252196422373,
+                51.50079117769491
+              ],
+              [
+                -0.05817571863877902,
+                51.50064392173812
+              ],
+              [
+                -0.05812457184640607,
+                51.50064690666093
+              ],
+              [
+                -0.05812297350962581,
+                51.500617057424705
+              ],
+              [
+                -0.058186907000333576,
+                51.50061009259997
+              ],
+              [
+                -0.05807431289571241,
+                51.500246298210755
+              ],
+              [
+                -0.05793845423036714,
+                51.49992392261254
+              ],
+              [
+                -0.05787132406504725,
+                51.49976870390728
+              ],
+              [
+                -0.05782657062081853,
+                51.499749799028905
+              ],
+              [
+                -0.057353463168880126,
+                51.499806513579955
+              ],
+              [
+                -0.05728100902226174,
+                51.49952590884277
+              ],
+              [
+                -0.057805897613604884,
+                51.49942490324298
+              ],
+              [
+                -0.05793063444647828,
+                51.49967918981051
+              ],
+              [
+                -0.05806496642006209,
+                51.49965615048191
+              ],
+              [
+                -0.05788951210269033,
+                51.49931079767896
+              ],
+              [
+                -0.05748788691684581,
+                51.499338103755264
+              ],
+              [
+                -0.057450877087404706,
+                51.49904712253627
+              ],
+              [
+                -0.05690597290043797,
+                51.499114621141814
+              ],
+              [
+                -0.056486528167312144,
+                51.49912400764774
+              ],
+              [
+                -0.05608552200285999,
+                51.49910106438142
+              ],
+              [
+                -0.05592925827824047,
+                51.49919663601696
+              ],
+              [
+                -0.055676352068559254,
+                51.49938797416846
+              ],
+              [
+                -0.05558588359627947,
+                51.499481838579015
+              ],
+              [
+                -0.05642694144728466,
+                51.5005737992374
+              ],
+              [
+                -0.0564516146672247,
+                51.500569532779906
+              ],
+              [
+                -0.05650233184115905,
+                51.500656568437336
+              ],
+              [
+                -0.05648451269738075,
+                51.500662883530026
+              ],
+              [
+                -0.05649136636998264,
+                51.50067141642762
+              ],
+              [
+                -0.056939596525978686,
+                51.50068762892843
+              ],
+              [
+                -0.057209631841374176,
+                51.50074906566428
+              ],
+              [
+                -0.057253495342649785,
+                51.50085913971145
+              ],
+              [
+                -0.05817252196422373,
+                51.50079117769491
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King Edward III Manor House",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.50026,
+          "longitude": -0.0594,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 2024,
+          "brief_history": "King Edward III is remembered in history for starting the Hundred Years War, annexing large parts of France for England, as well as being the reigning king during the period of the Black Death. What he is infinitely less well-known for, is building a small royal residence at Rotherhithe in South East London, the remains of which can still be seen today.\nWhen the residence was constructed in around 1350, Rotherhithe was a small hamlet set in low lying marshland. The manor house itself was built upon a small island directly next to the River Thames and consisted of a range of stone buildings around a central courtyard.\n\nThere was a moat on three sides of the complex, with the north side being completely open to the River Thames. This allowed the king to arrive by boat and at high tide to moor up against the steps that led from the river to a gatehouse located in a tower. There was also a hall with a large and imposing fireplace, the king’s private chambers, kitchens and other buildings. Further south, on drier land, was an outer court with other buildings surrounded by an earth bank.\n\nSo what was the function of this manor house? It was not a hunting lodge, since there was no attached royal park and Edward III built many hunting lodges elsewhere. Indeed, the most popular theory is that this was where the king practiced his falconry, with the birds being able to stay within eyeshot across the flat marshlands and the River Thames.\n\nBy the end of the 16th century the Thames waterfront had been pushed northwards by land reclamation, and a road had been built along the new river embankment (today this road is known as Bermondsey Wall). By this time the old king’s residence was completely enclosed by the moat, and perhaps due to a lack of enthusiasm for falconry, Edward’s ancestors eventually sold the residence and it passed into private hands.\nIn the 18th century the site became used as a pottery and in the 18th and 19th centuries warehouses were built across the site. In fact the facade of the north wall of the 14th century inner court was still standing in 1907, incorporated into one of the warehouses.\n\nIn the 1970s the warehouses were demolished and in the 1980s the area was redeveloped, allowing historians at the Museum of London to excavate the remains, preserve them and make them accessible to the public.",
+          "history_link": "https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Edward-IIIs-Manor-House-Rotherhithe/"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.059204294046480754,
+                51.500479641603164
+              ],
+              [
+                -0.05948047476545071,
+                51.50045903904811
+              ],
+              [
+                -0.05980344643299418,
+                51.50042067564496
+              ],
+              [
+                -0.059773774123243584,
+                51.50033116091225
+              ],
+              [
+                -0.05973497187366661,
+                51.50029706001541
+              ],
+              [
+                -0.05967220352874847,
+                51.50025159211353
+              ],
+              [
+                -0.05965280240391735,
+                51.500217491157144
+              ],
+              [
+                -0.059661932345193236,
+                51.50015710398415
+              ],
+              [
+                -0.05966649731581697,
+                51.50006900961219
+              ],
+              [
+                -0.05964253122039054,
+                51.500030645880685
+              ],
+              [
+                -0.05959345778728675,
+                51.499995834318895
+              ],
+              [
+                -0.05950444086087714,
+                51.49999086123614
+              ],
+              [
+                -0.05899887037136864,
+                51.500049117310766
+              ],
+              [
+                -0.059134678246294925,
+                51.5004498034171
+              ],
+              [
+                -0.059166633039183125,
+                51.50047111640902
+              ],
+              [
+                -0.059204294046480754,
+                51.500479641603164
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kirkwood Road Nature Garden",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47187,
+          "longitude": -0.05988,
+          "status": "Open",
+          "period_opened": "2000-2024",
+          "year_opened": 2000,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 2024,
+          "brief_history": "Before the 1860s this are of Nunhead and Peckham to the South of Queen’s Road was farmland. In the 1870s the London Brighton and South Coast Railway line from London Bridge to Peckham Rye, Denmark Hill and Victoria was built here on a high enbankment. Residential development took place at the same time, and from the 1870s up to the mid 1970s the area now occupied by the Reserve was terraced housing, in Cossall Street and Sunwell Street (formerly Athearn Road).\n\nIn the 1970s the area was redeveloped with Southwark Council’s new Cossall Housing Estate, and a new road was built on the North side of the railway to extend the North end of Kirkwood Road to meet Queen’s Road. In the late 1990s the North section of this road was partially built over to construct Joe Richards House. The remaining portion of road was removed and the site landscaped to become the Kirkwood Road Nature Garden. The garden was opened in Autumn 2000. Most of the reserve was planted as woodland, with an artificial pond, some open grass areas and a path network. In the following 10 years the woodland has developed and the area is now a significant local wildlife resource.\n\n~ From a sign found in Kirkwood Road Nature Garden",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05909695706910156,
+                51.47240863933058
+              ],
+              [
+                -0.0592630985782705,
+                51.47234264685633
+              ],
+              [
+                -0.059617052227878276,
+                51.47214766853341
+              ],
+              [
+                -0.060609085587117306,
+                51.47169921522939
+              ],
+              [
+                -0.0607270701364655,
+                51.471544730294056
+              ],
+              [
+                -0.06072947798452333,
+                51.47137074663448
+              ],
+              [
+                -0.060527218756135426,
+                51.471364747186016
+              ],
+              [
+                -0.05950629122176565,
+                51.471904694380925
+              ],
+              [
+                -0.05908491782915348,
+                51.47216566656755
+              ],
+              [
+                -0.05909695706910156,
+                51.47240863933058
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lavender Pond Ecological Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.50598,
+          "longitude": -0.03731,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": 1981,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1985,
+          "brief_history": "The Pond was originally much bigger and used for floating logs to keep them from splitting. ‘In 1928 the entrance to the pond was blocked when the Port of London Authority built the Pumphouse on the site to control the water levels in Surrey Docks. In 1970 the Docks were closed. The area became neglected and the pond was filled in, but in 1981 the pond was re-created as part of a nature reserve.",
+          "history_link": "https://enthusiasticgardener.com/2017/05/29/lavender-pond-nature-reserve/"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.03746138355151629,
+                51.506653192257744
+              ],
+              [
+                -0.037687733849310234,
+                51.50616935818337
+              ],
+              [
+                -0.03790514926589594,
+                51.50606925394075
+              ],
+              [
+                -0.03799449806783173,
+                51.50599139493258
+              ],
+              [
+                -0.03815830420452926,
+                51.505685518971944
+              ],
+              [
+                -0.0371397278658776,
+                51.50537593333246
+              ],
+              [
+                -0.03703250930428226,
+                51.505555752792304
+              ],
+              [
+                -0.036573852121875916,
+                51.50600437144328
+              ],
+              [
+                -0.03697592172915165,
+                51.50616379684226
+              ],
+              [
+                -0.03689848610184754,
+                51.50656235789987
+              ],
+              [
+                -0.03746138355151629,
+                51.506653192257744
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Long Meadow",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.42685,
+          "longitude": -0.08431,
+          "status": "Open",
+          "period_opened": "Before 1850",
+          "year_opened": "Before 1850",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By looking at 1840-1880s map on National Library of Scotland’s website it would appear that Long Meadow has existed since before 1850. However more research is needed to confirm that it has been publicly accessible since then.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.08518632978751839,
+                51.427881985396255
+              ],
+              [
+                -0.08535755979349346,
+                51.4278490482412
+              ],
+              [
+                -0.08561440480463034,
+                51.427845640947936
+              ],
+              [
+                -0.08575284608653533,
+                51.42783769059628
+              ],
+              [
+                -0.08585849864434181,
+                51.427811568001744
+              ],
+              [
+                -0.08585485545265215,
+                51.427778630795984
+              ],
+              [
+                -0.08563101557570008,
+                51.427656071809395
+              ],
+              [
+                -0.08528309077462382,
+                51.427470941059795
+              ],
+              [
+                -0.08501716063926779,
+                51.42721261975214
+              ],
+              [
+                -0.08464480421497456,
+                51.42669202746029
+              ],
+              [
+                -0.08390541522004469,
+                51.4256643467761
+              ],
+              [
+                -0.08379794106696181,
+                51.42552691251001
+              ],
+              [
+                -0.08371232606285162,
+                51.425541678194634
+              ],
+              [
+                -0.08334618530332705,
+                51.425758619629136
+              ],
+              [
+                -0.0832244291303823,
+                51.42584267037054
+              ],
+              [
+                -0.0830823446568445,
+                51.42602440028804
+              ],
+              [
+                -0.08311695497729943,
+                51.426172055313714
+              ],
+              [
+                -0.08338655117051985,
+                51.42646395650564
+              ],
+              [
+                -0.08433377797598496,
+                51.42722834108591
+              ],
+              [
+                -0.08491341062855895,
+                51.42768884228698
+              ],
+              [
+                -0.08518632978751839,
+                51.427881985396255
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lucas Gardens",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47258,
+          "longitude": -0.08229,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": 1955,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By looking at maps from 1840 and 1880 it would appear that Long Meadow existed from before 1850. However whether it was publicly accessible or not at the time is still a mystery. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.08277360712583004,
+                51.47317349648242
+              ],
+              [
+                -0.08289992522975353,
+                51.473715655531436
+              ],
+              [
+                -0.08316243003781665,
+                51.47371073801796
+              ],
+              [
+                -0.08321374676802407,
+                51.47367385665015
+              ],
+              [
+                -0.08301042610463583,
+                51.472805826191774
+              ],
+              [
+                -0.08283279163035218,
+                51.47228209831778
+              ],
+              [
+                -0.08233936131597375,
+                51.471460248708155
+              ],
+              [
+                -0.08133671053269609,
+                51.4717122832391
+              ],
+              [
+                -0.08156763549814627,
+                51.47279048216174
+              ],
+              [
+                -0.08165645291526857,
+                51.472902357718084
+              ],
+              [
+                -0.08174527078290339,
+                51.47331502823039
+              ],
+              [
+                -0.08181237727507096,
+                51.473308881284424
+              ],
+              [
+                -0.08180842983551884,
+                51.47328060532277
+              ],
+              [
+                -0.08187948376840382,
+                51.473275687762396
+              ],
+              [
+                -0.0818814574882083,
+                51.47326216446896
+              ],
+              [
+                -0.08255844072633067,
+                51.473194541430615
+              ],
+              [
+                -0.08277360712583004,
+                51.47317349648242
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lyndhurst Square Shrubbery",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47209,
+          "longitude": -0.07486,
+          "status": "Open",
+          "period_opened": "Before 1850",
+          "year_opened": 1843,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "Highshore Road (formerly Hanover Street), Elm Grove and Lyndhurst Way were\nadded in the 1830’s. In these residential developments, central green space was\ndropped in favour of planted front gardens and an avenue treatment of the\nstreets. The one exception to this new approach was Lyndhurst Square which,\nbuilt in 1843, is centred on a green space for the amenity of properties that front\nonto it.",
+          "history_link": "https://arc.net/l/quote/herioycl"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.07457524091555001,
+                51.47215322312064
+              ],
+              [
+                -0.07512192692536246,
+                51.472088512157654
+              ],
+              [
+                -0.0751679098608804,
+                51.47207578212118
+              ],
+              [
+                -0.07518834672134744,
+                51.472051913293654
+              ],
+              [
+                -0.07517642521889911,
+                51.472026453197
+              ],
+              [
+                -0.07513810610575433,
+                51.47200841895338
+              ],
+              [
+                -0.07507083477520382,
+                51.47201107104837
+              ],
+              [
+                -0.07456417094866197,
+                51.47207843421256
+              ],
+              [
+                -0.07454203133340798,
+                51.47210389413496
+              ],
+              [
+                -0.07454373440455697,
+                51.472133067111855
+              ],
+              [
+                -0.07457524091555001,
+                51.47215322312064
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mary Datchelor Playing Field",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.43724,
+          "longitude": -0.08535,
+          "status": "Open",
+          "period_opened": "1875-1899",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By drawing comparisons between maps dated 1876 and 1896 it would appear that Mary Datchelor Playing Field was first opened as a recreational space between those dates. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.08762064848326645,
+                51.43755668307941
+              ],
+              [
+                -0.08523790313557811,
+                51.43574192808285
+              ],
+              [
+                -0.08350397493583728,
+                51.4372922656658
+              ],
+              [
+                -0.08389537983029527,
+                51.437605139748285
+              ],
+              [
+                -0.08341376714358262,
+                51.43778158521616
+              ],
+              [
+                -0.08367720738286266,
+                51.43798592811518
+              ],
+              [
+                -0.0845816896917313,
+                51.43782953771907
+              ],
+              [
+                -0.08485097682896026,
+                51.43829906880316
+              ],
+              [
+                -0.0852030328863691,
+                51.43836051661768
+              ],
+              [
+                -0.08526077008019683,
+                51.438457955125045
+              ],
+              [
+                -0.08536779512144221,
+                51.438445665594884
+              ],
+              [
+                -0.08552025888533876,
+                51.438599183910355
+              ],
+              [
+                -0.08603658281367643,
+                51.438428721682925
+              ],
+              [
+                -0.08606615552253061,
+                51.43837341873646
+              ],
+              [
+                -0.08599151963770169,
+                51.438256667851476
+              ],
+              [
+                -0.08659134169539584,
+                51.43810924341062
+              ],
+              [
+                -0.08674061346417261,
+                51.438104854259876
+              ],
+              [
+                -0.08688988523212515,
+                51.43813645613747
+              ],
+              [
+                -0.08747332154703713,
+                51.43795079450197
+              ],
+              [
+                -0.08744656528674,
+                51.437912169824756
+              ],
+              [
+                -0.08762259331587074,
+                51.43785247707788
+              ],
+              [
+                -0.08743388237141403,
+                51.437661103032724
+              ],
+              [
+                -0.08762064848326645,
+                51.43755668307941
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Montague Square",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47731,
+          "longitude": -0.05338,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By drawing comparisons between maps dated 1977 and 1987 it would appear that Montague Square was opened between those dates. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05353502792326026,
+                51.47750811332395
+              ],
+              [
+                -0.05355528290499478,
+                51.47711143226823
+              ],
+              [
+                -0.05320757240164653,
+                51.47710512459119
+              ],
+              [
+                -0.053190693250400045,
+                51.4775032073953
+              ],
+              [
+                -0.05353502792326026,
+                51.47750811332395
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Neptune Street Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49744,
+          "longitude": -0.0533,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By drawing comparisons between maps dated 1964 and 1977 it would appear that Neptune Street Park may have been opened between those dates. However more investigation is needed to determine this. Until a more specific opening date is known the opening period for Neptune Street Park will be classified as 1950-1974. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05314410375038392,
+                51.49747697699132
+              ],
+              [
+                -0.05346484888676173,
+                51.49764726619841
+              ],
+              [
+                -0.05368145599243235,
+                51.49751501118416
+              ],
+              [
+                -0.053338494742433795,
+                51.49723839814874
+              ],
+              [
+                -0.052977482899564166,
+                51.49740955266256
+              ],
+              [
+                -0.052959432307631005,
+                51.4975262485531
+              ],
+              [
+                -0.05304135422551326,
+                51.497563418292884
+              ],
+              [
+                -0.05314410375038392,
+                51.49747697699132
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nunhead Cemetery",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.46238,
+          "longitude": -0.05086,
+          "status": "Open",
+          "period_opened": "Before 1850",
+          "year_opened": 1840,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "Nunhead Cemetery was one of the 7 great Victorian cemeteries established on the outskirts of London. It was laid out on former farmland, with curving paths and planting that made good use of its hilly site. The path layout and some of the trees from the original planting survive. It had matching entrance lodges and two gothic chapels, only one of which remains and now restored. Although it became fashionable to be buried here, the cemetery suffered when the new Crystal Palace railway blocked the cemetery approach and the company secretary embezzled company funds. Over the C20th the once well-kept cemetery deteriorated and it closed in 1969, badly neglected and subject to attacks by vandals. Purchased by Southwark Council in 1975, it was later restored with the active participation of the Friends of Nunhead Cemetery, and re-opened in 2001, part now a nature reserve.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU063"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05065034165846782,
+                51.465867250517164
+              ],
+              [
+                -0.05262806506343054,
+                51.46465082435884
+              ],
+              [
+                -0.052564526808083656,
+                51.46455560829381
+              ],
+              [
+                -0.05305895138818073,
+                51.46424430622386
+              ],
+              [
+                -0.053469374177183226,
+                51.464014287497946
+              ],
+              [
+                -0.05361877494192413,
+                51.464038894207704
+              ],
+              [
+                -0.055698994406952806,
+                51.462695679327
+              ],
+              [
+                -0.0542273692561821,
+                51.46185542953083
+              ],
+              [
+                -0.053208587211940994,
+                51.461268556892605
+              ],
+              [
+                -0.05181808136828181,
+                51.460497762783234
+              ],
+              [
+                -0.050700789472529095,
+                51.459869071266155
+              ],
+              [
+                -0.050139727932105416,
+                51.45955738495715
+              ],
+              [
+                -0.05000101563294379,
+                51.45964746375566
+              ],
+              [
+                -0.049920914164005126,
+                51.4596365082358
+              ],
+              [
+                -0.04729462015518493,
+                51.46130694405096
+              ],
+              [
+                -0.0474548231553058,
+                51.4616197726009
+              ],
+              [
+                -0.05031109807569578,
+                51.46541374299446
+              ],
+              [
+                -0.05065034165846782,
+                51.465867250517164
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pasley Park",
+          "other_names": "Surrey Gardens",
+          "borough": "Southwark",
+          "latitude": 51.48624,
+          "longitude": -0.10079,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "Pasley Park is on part of the former site of the Royal Surrey Gardens, which were set up in 1831 by Edward Cross for his new Surrey Zoological Gardens with animals from his existing menagerie at Exeter Exchange on The Strand. In addition to the animals there were ornamental gardens with a large lake and numerous entertainments, which proved very popular with the public. The gardens had declined by 1856 and the animals were sold. Surrey Music Hall was erected on part of the gardens, another popular attraction until 1872. In 1877 the site was sold for development, and terraces of houses built here. In the 1980s part of the former site was laid out as Pasley Park, where in 2010 a Fun Day celebrated the former history of the zoological gardens.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU068a&sitename=Pasley+Park"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.10165201091606946,
+                51.48663416270952
+              ],
+              [
+                -0.10197182358226087,
+                51.486807410859285
+              ],
+              [
+                -0.1020868161743067,
+                51.48667792110513
+              ],
+              [
+                -0.10212550030684042,
+                51.48662513143387
+              ],
+              [
+                -0.10219299177015273,
+                51.486463686914476
+              ],
+              [
+                -0.10222262216939271,
+                51.486387320895005
+              ],
+              [
+                -0.10205586863074245,
+                51.48638424578493
+              ],
+              [
+                -0.10198590796727558,
+                51.48636887005989
+              ],
+              [
+                -0.10195551604076059,
+                51.48631740650583
+              ],
+              [
+                -0.1019514007078044,
+                51.48628768005554
+              ],
+              [
+                -0.10197444657387678,
+                51.48626974167129
+              ],
+              [
+                -0.10193823133849378,
+                51.48622515193799
+              ],
+              [
+                -0.10147151898084417,
+                51.4859469844514
+              ],
+              [
+                -0.10110607726178955,
+                51.48573633415023
+              ],
+              [
+                -0.10112089246089795,
+                51.4857214707381
+              ],
+              [
+                -0.10104846259719125,
+                51.48567790553676
+              ],
+              [
+                -0.10084272628841973,
+                51.485541609356574
+              ],
+              [
+                -0.10073408149233387,
+                51.48546831699895
+              ],
+              [
+                -0.09984194844082594,
+                51.48585318461599
+              ],
+              [
+                -0.10008152438928164,
+                51.486050600599924
+              ],
+              [
+                -0.09991444186323406,
+                51.48612594212935
+              ],
+              [
+                -0.09969303685494424,
+                51.486283800296775
+              ],
+              [
+                -0.09988974978020337,
+                51.48639091794067
+              ],
+              [
+                -0.10041010789120719,
+                51.48667469979546
+              ],
+              [
+                -0.10085291774041139,
+                51.486891495587145
+              ],
+              [
+                -0.1008022234455268,
+                51.48693373140219
+              ],
+              [
+                -0.10094708317291179,
+                51.48702290943132
+              ],
+              [
+                -0.10135120762964789,
+                51.48677319483892
+              ],
+              [
+                -0.10138083802780784,
+                51.486790107986025
+              ],
+              [
+                -0.10158825100128865,
+                51.48665941514534
+              ],
+              [
+                -0.10165201091606946,
+                51.48663416270952
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pat Hickson Gardens",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.48486,
+          "longitude": -0.05341,
+          "status": "Open",
+          "period_opened": "2000-2024",
+          "year_opened": 2021,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 2024,
+          "brief_history": "Family and friends of the late Pat Hickson joined Cllrs Catherine Rose and Richard Livingstone, to officially open the Ilderton Road garden and remember Pat.Many will recall her as an active member of the local community and chair of the local tenant resident association; she sadly passed away in 2019.The land, originally jointly owned by Southwark and Lewisham councils and then repurposed by Network Rail, has now been landscaped and planted by Southwark Council. A new pathway through the site links Surrey Canal Road to Stockholm Street. Local people can also enjoy the grassed areas and wild meadow planting.The main area is planted with 22 new, varied trees and a further 15 trees are located towards the eastern edge of the garden, bringing the council closer to its target of 10,000 new trees by May 2022.A hedge is planted along the main road boundary, offering a screen from the thoroughfare and climbers now scale the fencing. These new plants will provide habitat for birds and other wildlife.",
+          "history_link": "https://oldkentroad.org.uk/pathicksongarden/"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.053044111881092704,
+                51.48470224682734
+              ],
+              [
+                -0.053044111881092704,
+                51.484764561104356
+              ],
+              [
+                -0.053215100811513594,
+                51.48475911617069
+              ],
+              [
+                -0.05325493346032317,
+                51.48490794411654
+              ],
+              [
+                -0.05328407930051071,
+                51.485013212370205
+              ],
+              [
+                -0.053623142578089755,
+                51.484978122979186
+              ],
+              [
+                -0.05353279047184856,
+                51.48473612644477
+              ],
+              [
+                -0.053512388383580856,
+                51.484713136707256
+              ],
+              [
+                -0.053462840455097194,
+                51.48470224682734
+              ],
+              [
+                -0.05336374459812987,
+                51.48470043184733
+              ],
+              [
+                -0.053288936941555676,
+                51.484710111741066
+              ],
+              [
+                -0.05327242096416285,
+                51.484698616867206
+              ],
+              [
+                -0.053044111881092704,
+                51.48470224682734
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Paterson Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.48921,
+          "longitude": -0.06869,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": 1953,
+          "alteration": "Shrank",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "Paterson Park is built on land that was once railway sidings bombed in World War II. The first section of the park was opened in 1953. In 2007, improvements were made to create a well designed open space to meet the needs of the local community. Facilities include a children's play area and a multiuse games area.",
+          "history_link": "https://www.southwark.gov.uk/parks-and-open-spaces/parks/other-parks-and-gardens?chapter=2#:~:text=Paterson Park is built on,and a multiuse games area."
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.06924973042481497,
+                51.4895286169708
+              ],
+              [
+                -0.0693894526548604,
+                51.48918297052222
+              ],
+              [
+                -0.0688758790510633,
+                51.48911243010849
+              ],
+              [
+                -0.06889664857149569,
+                51.48891491637022
+              ],
+              [
+                -0.0682433529267712,
+                51.48887964690417
+              ],
+              [
+                -0.06792200856915542,
+                51.48933769101913
+              ],
+              [
+                -0.068600821771156,
+                51.4894362709727
+              ],
+              [
+                -0.06924973042481497,
+                51.4895286169708
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Peckham Square",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47406,
+          "longitude": -0.06957,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Not Sure",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "There are plans to redevelop Peckham Square. More info can be found on the link below. Until the redevelopments are finished it is unclear if there will be any alterations to the square’s shape and size. This will be confirmed when the redevelopment is completed. \n\nBy drawing comparisons between Southwark councils 1987 and 2002 maps we have determined that the square was first opened somewhere between those dates.",
+          "history_link": "https://www.southwark.gov.uk/regeneration/peckham-and-nunhead/peckham-square"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.06966078896331851,
+                51.474328144307265
+              ],
+              [
+                -0.06988187236052568,
+                51.474339045964626
+              ],
+              [
+                -0.06992793140136655,
+                51.47446584926038
+              ],
+              [
+                -0.07021718217987427,
+                51.474415931262996
+              ],
+              [
+                -0.07006426803096133,
+                51.474030534671215
+              ],
+              [
+                -0.06983397282556325,
+                51.47402020671558
+              ],
+              [
+                -0.06980541622004921,
+                51.473993813040636
+              ],
+              [
+                -0.06972895852166516,
+                51.47383946704943
+              ],
+              [
+                -0.06992793357946425,
+                51.47377922035645
+              ],
+              [
+                -0.06991304528287401,
+                51.47372722384671
+              ],
+              [
+                -0.06984948380667788,
+                51.47361935325546
+              ],
+              [
+                -0.06989738520962874,
+                51.47360500874285
+              ],
+              [
+                -0.06985408971078755,
+                51.47354533552166
+              ],
+              [
+                -0.06940536310480638,
+                51.47369129008314
+              ],
+              [
+                -0.06938233358434331,
+                51.47374579910439
+              ],
+              [
+                -0.06950853533717805,
+                51.47395404994654
+              ],
+              [
+                -0.06941089017033164,
+                51.473908721603294
+              ],
+              [
+                -0.06935285577822015,
+                51.473923639797135
+              ],
+              [
+                -0.0693362745239483,
+                51.473900688727866
+              ],
+              [
+                -0.06916954079474635,
+                51.47394314819715
+              ],
+              [
+                -0.0692625548057606,
+                51.47417220955498
+              ],
+              [
+                -0.06920636277567382,
+                51.474180816156064
+              ],
+              [
+                -0.06921833812586442,
+                51.474212947452685
+              ],
+              [
+                -0.0688651149984878,
+                51.474268932910604
+              ],
+              [
+                -0.06894249418689924,
+                51.474474916682624
+              ],
+              [
+                -0.06908343485255841,
+                51.47444622819057
+              ],
+              [
+                -0.06904935116298816,
+                51.47437278556916
+              ],
+              [
+                -0.06962508928785383,
+                51.47425860493723
+              ],
+              [
+                -0.06966078896331851,
+                51.474328144307265
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pelier Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.48479,
+          "longitude": -0.09624,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By drawing comparisons between maps dated 1970 and 1977 it would appear that Pelier Park was opened between those dates. Until a more specific opening date is known the opening period for Pelier Park will be classified as 1950-1974. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.0960557502056929,
+                51.48504484970849
+              ],
+              [
+                -0.09638508462089135,
+                51.484995780800716
+              ],
+              [
+                -0.09669623492777646,
+                51.4849530027351
+              ],
+              [
+                -0.0965204552090313,
+                51.48466739521106
+              ],
+              [
+                -0.09681948277633978,
+                51.484547867302155
+              ],
+              [
+                -0.0965669257093964,
+                51.48427609741714
+              ],
+              [
+                -0.09635679822994803,
+                51.484336490864735
+              ],
+              [
+                -0.09647802562150787,
+                51.48457051471948
+              ],
+              [
+                -0.0963062868156328,
+                51.48461077676694
+              ],
+              [
+                -0.09625981631532454,
+                51.48453025263646
+              ],
+              [
+                -0.09596482966085773,
+                51.484586871180596
+              ],
+              [
+                -0.0960557502056929,
+                51.48504484970849
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Piermont Green",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.45483,
+          "longitude": -0.06361,
+          "status": "Open",
+          "period_opened": "Before 1850",
+          "year_opened": "Before 1850",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By looking at maps dated before 1850 it would appear that Piermont Garden has been publicly accessible before this date. Until a more specific opening date is known the opening period for Piermont Green will be classified as before 1850. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.0635868716556729,
+                51.455416373222306
+              ],
+              [
+                -0.06360749795567244,
+                51.45540413252496
+              ],
+              [
+                -0.06362026661813047,
+                51.45532089569559
+              ],
+              [
+                -0.0636516971695471,
+                51.45532946419954
+              ],
+              [
+                -0.06393064323179942,
+                51.4550281798212
+              ],
+              [
+                -0.06396600260310947,
+                51.455041644698895
+              ],
+              [
+                -0.0640308281170121,
+                51.455041032658954
+              ],
+              [
+                -0.06453454278153004,
+                51.454454220829035
+              ],
+              [
+                -0.06434399505863553,
+                51.45439424011613
+              ],
+              [
+                -0.06419764654958726,
+                51.454546027889734
+              ],
+              [
+                -0.06417309143077432,
+                51.45457785429451
+              ],
+              [
+                -0.06413085662575213,
+                51.45459131930505
+              ],
+              [
+                -0.06406995993063447,
+                51.45460111203772
+              ],
+              [
+                -0.06373798142473674,
+                51.45457295331789
+              ],
+              [
+                -0.06305675015997281,
+                51.45453819711966
+              ],
+              [
+                -0.06336366623156664,
+                51.45504781219472
+              ],
+              [
+                -0.0635868716556729,
+                51.455416373222306
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pynners Close Playing Fields",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.44101,
+          "longitude": -0.0773,
+          "status": "Open",
+          "period_opened": "",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By looking at maps dated between 1916 and 1954 it would appear that the land occupied by Pynners Close Playing Fields has been a sports ground since at least 1916. Until a more specific opening date is known the opening period for Pynners Close Playing Field will be classified as 1900-1924. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.07774606360101188,
+                51.442427377926634
+              ],
+              [
+                -0.07926736105633836,
+                51.44225720994078
+              ],
+              [
+                -0.0790379170927622,
+                51.44181529726603
+              ],
+              [
+                -0.07822569229992382,
+                51.44102740938513
+              ],
+              [
+                -0.07729874140753168,
+                51.44025082436198
+              ],
+              [
+                -0.07731709692473032,
+                51.44023795261401
+              ],
+              [
+                -0.07725973593417734,
+                51.44021506949784
+              ],
+              [
+                -0.077188608305363,
+                51.44013211810454
+              ],
+              [
+                -0.0770532363668508,
+                51.4400691893608
+              ],
+              [
+                -0.07694998658249119,
+                51.43996192425732
+              ],
+              [
+                -0.07679167024775779,
+                51.43986753075748
+              ],
+              [
+                -0.07671846965288864,
+                51.439753252474475
+              ],
+              [
+                -0.07642937025863716,
+                51.439605940648335
+              ],
+              [
+                -0.0763261204743344,
+                51.43962024278852
+              ],
+              [
+                -0.07621598737216573,
+                51.43968174193867
+              ],
+              [
+                -0.07612420978728096,
+                51.43978757749173
+              ],
+              [
+                -0.07601178224498994,
+                51.439833344141505
+              ],
+              [
+                -0.07594065461614719,
+                51.4399134356685
+              ],
+              [
+                -0.07579863562224887,
+                51.43998148035422
+              ],
+              [
+                -0.07573898019154512,
+                51.440031537412665
+              ],
+              [
+                -0.07567244144303231,
+                51.44005871122124
+              ],
+              [
+                -0.07562655264925411,
+                51.440133081562124
+              ],
+              [
+                -0.07549118071077032,
+                51.440227474513165
+              ],
+              [
+                -0.07551412510827049,
+                51.44026608975503
+              ],
+              [
+                -0.07561508045114351,
+                51.44033759937594
+              ],
+              [
+                -0.07565867588931496,
+                51.440431807497674
+              ],
+              [
+                -0.07601201959326431,
+                51.44071641409232
+              ],
+              [
+                -0.07614100884177333,
+                51.44087864776543
+              ],
+              [
+                -0.07643010823605323,
+                51.44107744156801
+              ],
+              [
+                -0.07657236352986274,
+                51.44120329613281
+              ],
+              [
+                -0.0766756133128581,
+                51.44133201072859
+              ],
+              [
+                -0.07693259055295698,
+                51.441480747142975
+              ],
+              [
+                -0.07701518973098587,
+                51.441579427587726
+              ],
+              [
+                -0.07714826722934731,
+                51.441673817549514
+              ],
+              [
+                -0.07726528365063245,
+                51.4418125418359
+              ],
+              [
+                -0.07763841926467308,
+                51.44208230437587
+              ],
+              [
+                -0.07768660249726622,
+                51.442195285032824
+              ],
+              [
+                -0.07774606360101188,
+                51.442427377926634
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Russia Dock Woodland",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.50049,
+          "longitude": -0.03958,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": 1980,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1985,
+          "brief_history": "Russia Dock was once was part of the Surrey Commercial Docks created in 1864 when the various companies owning Rotherhithe's C19th commercial docks amalgamated. Surrey Docks came to cover over 185 hectares, and was particularly important for imported timber. The Docks were finally closed in 1969; the linear wooded park was created by LB Southwark in 1980 from the former Russia Dock basin and part of the old canal wall and boat moorings are still visible. It contains a water feature that connects streams, a canal and lagoon, and two ponds. Numerous species of trees and shrubs were planted.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU075"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.039172301895888495,
+                51.496760091210916
+              ],
+              [
+                -0.03919072926353806,
+                51.497998444471136
+              ],
+              [
+                -0.03912775179196615,
+                51.4988176667558
+              ],
+              [
+                -0.03907740433658091,
+                51.49956869406009
+              ],
+              [
+                -0.03867724567658115,
+                51.50002036895154
+              ],
+              [
+                -0.03814960736215767,
+                51.50001894621474
+              ],
+              [
+                -0.03790995228806082,
+                51.50052116262427
+              ],
+              [
+                -0.03793743571796426,
+                51.5005813850012
+              ],
+              [
+                -0.038039674072194885,
+                51.500572488518685
+              ],
+              [
+                -0.03810233629008053,
+                51.50057727893244
+              ],
+              [
+                -0.03816719718281547,
+                51.50056290768927
+              ],
+              [
+                -0.0381979786224349,
+                51.500571119829004
+              ],
+              [
+                -0.038232058074271436,
+                51.50062244566678
+              ],
+              [
+                -0.03822106470281028,
+                51.500646397705026
+              ],
+              [
+                -0.03823535608651696,
+                51.50066213760883
+              ],
+              [
+                -0.03811653207014842,
+                51.50069716632453
+              ],
+              [
+                -0.03811822265353726,
+                51.50075794221951
+              ],
+              [
+                -0.03810638856623427,
+                51.50079898563456
+              ],
+              [
+                -0.038090328019109165,
+                51.50081661324424
+              ],
+              [
+                -0.037975423899411,
+                51.50082761418798
+              ],
+              [
+                -0.03801152830328647,
+                51.50110630648183
+              ],
+              [
+                -0.03819445872716187,
+                51.501714609727685
+              ],
+              [
+                -0.038119841975941426,
+                51.50184051360196
+              ],
+              [
+                -0.03798023787706484,
+                51.50230798574478
+              ],
+              [
+                -0.03806688911384981,
+                51.50263910964887
+              ],
+              [
+                -0.03825944741660692,
+                51.50270053961077
+              ],
+              [
+                -0.038734424370233,
+                51.50269787566182
+              ],
+              [
+                -0.03887088071502376,
+                51.503322343444296
+              ],
+              [
+                -0.03850864313065472,
+                51.503345649156415
+              ],
+              [
+                -0.03859975567169727,
+                51.503742524411365
+              ],
+              [
+                -0.03745902975921922,
+                51.50382967316688
+              ],
+              [
+                -0.037500505170015686,
+                51.50399490090436
+              ],
+              [
+                -0.03626525430919969,
+                51.5040812993239
+              ],
+              [
+                -0.0364076478170432,
+                51.50439703533664
+              ],
+              [
+                -0.03655303909320651,
+                51.504496865145825
+              ],
+              [
+                -0.036693933993717565,
+                51.50456497291705
+              ],
+              [
+                -0.03686180876783851,
+                51.50481314557726
+              ],
+              [
+                -0.03740291029708942,
+                51.505114496661236
+              ],
+              [
+                -0.03731179715816779,
+                51.50457457303571
+              ],
+              [
+                -0.037691567996773756,
+                51.50451941552831
+              ],
+              [
+                -0.037763302488798445,
+                51.504682261310336
+              ],
+              [
+                -0.03835439815836139,
+                51.50461514295637
+              ],
+              [
+                -0.03826156528660363,
+                51.504092457693076
+              ],
+              [
+                -0.03925598342925696,
+                51.50404683999193
+              ],
+              [
+                -0.039209566992724376,
+                51.50361870596154
+              ],
+              [
+                -0.040087259597186176,
+                51.50357405371423
+              ],
+              [
+                -0.04017165311753956,
+                51.50343221687427
+              ],
+              [
+                -0.03910377687597588,
+                51.50300596128332
+              ],
+              [
+                -0.0397426038751405,
+                51.50237886399998
+              ],
+              [
+                -0.038637048767554916,
+                51.50196647448132
+              ],
+              [
+                -0.03933498320577655,
+                51.50118844079441
+              ],
+              [
+                -0.04091736169945648,
+                51.50156931672936
+              ],
+              [
+                -0.04117898160959044,
+                51.50131715094935
+              ],
+              [
+                -0.04125915545418479,
+                51.50116742685728
+              ],
+              [
+                -0.04125071610152986,
+                51.50100719526637
+              ],
+              [
+                -0.04118742096221695,
+                51.500891618031574
+              ],
+              [
+                -0.04074435498424123,
+                51.50072875870276
+              ],
+              [
+                -0.04087094526295232,
+                51.50058165945447
+              ],
+              [
+                -0.040799210772178185,
+                51.50054488456817
+              ],
+              [
+                -0.0408541323095335,
+                51.50030059353995
+              ],
+              [
+                -0.040938887754975894,
+                51.500171441023895
+              ],
+              [
+                -0.04109370502789034,
+                51.499998629357066
+              ],
+              [
+                -0.04110657599596834,
+                51.499674128215645
+              ],
+              [
+                -0.04145078792961954,
+                51.49922148480658
+              ],
+              [
+                -0.04113759478397583,
+                51.49908744228935
+              ],
+              [
+                -0.04018546800170952,
+                51.49858834743529
+              ],
+              [
+                -0.04019572854170406,
+                51.49817155904009
+              ],
+              [
+                -0.04021293418645655,
+                51.49768977396329
+              ],
+              [
+                -0.04023148742751914,
+                51.4972750131212
+              ],
+              [
+                -0.040150563666969674,
+                51.49641367665512
+              ],
+              [
+                -0.039889131637210085,
+                51.49647667973599
+              ],
+              [
+                -0.039172301895888495,
+                51.496760091210916
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Salisbury Row Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49229,
+          "longitude": -0.08728,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": "Unknown",
+          "alteration": "Expanded",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By drawing comparisons between maps dated 1970 and 1977 it would appear that Salisbury Row Park was opened between those dates. Until a more specific opening date is known the opening period forSalisbury Row Park will be classified as 1950-1974. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.0887364288905701,
+                51.49266536969546
+              ],
+              [
+                -0.08828188827854433,
+                51.49203483392856
+              ],
+              [
+                -0.08756569144370019,
+                51.492333239633325
+              ],
+              [
+                -0.08684405243116089,
+                51.49162348554057
+              ],
+              [
+                -0.08679883798481569,
+                51.49161672910151
+              ],
+              [
+                -0.08622371478716673,
+                51.491829555402944
+              ],
+              [
+                -0.08613871162719988,
+                51.49179577334971
+              ],
+              [
+                -0.0859741310420361,
+                51.49189374123472
+              ],
+              [
+                -0.08659445715267111,
+                51.49225294508153
+              ],
+              [
+                -0.08651668830373183,
+                51.49230136553112
+              ],
+              [
+                -0.08662158582055213,
+                51.4923700549175
+              ],
+              [
+                -0.08695074640135658,
+                51.492193263796366
+              ],
+              [
+                -0.08726001393432625,
+                51.49243198412276
+              ],
+              [
+                -0.08644253746089703,
+                51.49292294014637
+              ],
+              [
+                -0.0864678575504172,
+                51.49296685572483
+              ],
+              [
+                -0.08803951180146896,
+                51.49286663804506
+              ],
+              [
+                -0.0883668645217881,
+                51.492773176314444
+              ],
+              [
+                -0.0887364288905701,
+                51.49266536969546
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "South Dock",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49353,
+          "longitude": -0.03573,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": 1994,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "South Dock is one of two surviving docks in the former Surrey Commercial Docks in Rotherhithe, London, England. It was built in 1807–1811 just south of the larger Greenland Dock, to which it is connected by a channel now known as Greenland Cut; it also has a lock giving access to the River Thames. Originally named the East Country Dock, it was renamed in 1850 when the Surrey Commercial Dock Company purchased and enlarged it. Timber and grain were the main products imported and exported in the dock.\n\nThe dock was seriously damaged by German attacks in World War II when the area was heavily bombed by the Luftwaffe. Due to bomb damage in Greenland Dock, South Dock became the only exit from that dock. It was emptied of shipping in 1944, drained and used for the construction of concrete sections for the Mulberry Harbours used on D-Day. After the war, it was repaired and the surrounding warehouses rebuilt.\n\nThe revival of the Surrey Docks proved short-lived with the advent of containerization from the 1960s onwards. The new container ships were much too big to be accommodated in the upstream London docks and, with a few exceptions, most of the river trade moved downriver to Tilbury and other more modern ports around the country. The Surrey Docks closed in December 1970 and were sold to the London Borough of Southwark in 1977.\n\nAlthough most of the Surrey Docks were infilled and converted to residential, commercial or light industrial land, South Dock escaped this fate. The former warehouses were demolished and replaced with residential blocks, while the dock itself was refurbished. Residential development in the area received funding from the London Docklands Development Corporation erecting unique buildings, such as Baltic Quay. In 1994, South Dock reopened as London's largest marina, with over 200 berths. It is now largely occupied by yachts and residential barges.",
+          "history_link": "https://en.wikipedia.org/wiki/South_Dock,_Rotherhithe#:~:text=South Dock is one of,access to the River Thames."
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.0361936930833906,
+                51.49399361394188
+              ],
+              [
+                -0.03654682761219874,
+                51.4939225019063
+              ],
+              [
+                -0.03777413641626026,
+                51.49367524981312
+              ],
+              [
+                -0.037450334252241646,
+                51.49307851144411
+              ],
+              [
+                -0.03755395125017458,
+                51.493055663121794
+              ],
+              [
+                -0.03740329119509056,
+                51.49275816390585
+              ],
+              [
+                -0.03724786569753746,
+                51.492785044459055
+              ],
+              [
+                -0.037259738478780946,
+                51.492809236943515
+              ],
+              [
+                -0.033538526289419224,
+                51.493533020906284
+              ],
+              [
+                -0.03371985603578764,
+                51.49384747007005
+              ],
+              [
+                -0.033663730161549665,
+                51.49386763000467
+              ],
+              [
+                -0.03372483566889173,
+                51.49397162052961
+              ],
+              [
+                -0.03376210288064385,
+                51.49398874614707
+              ],
+              [
+                -0.033719406834137544,
+                51.494045386056115
+              ],
+              [
+                -0.033800152461111566,
+                51.494070798219184
+              ],
+              [
+                -0.03380725097812842,
+                51.49408785019759
+              ],
+              [
+                -0.03378418079520884,
+                51.49410166115581
+              ],
+              [
+                -0.03385782790593339,
+                51.49420938639963
+              ],
+              [
+                -0.034010765797575004,
+                51.49417250722743
+              ],
+              [
+                -0.034147056310303014,
+                51.49442706757782
+              ],
+              [
+                -0.034207629871986,
+                51.49441386818694
+              ],
+              [
+                -0.03502840162531129,
+                51.49423850449193
+              ],
+              [
+                -0.03592297883838569,
+                51.49404970873303
+              ],
+              [
+                -0.035919950160518965,
+                51.49407422207989
+              ],
+              [
+                -0.03600942725361733,
+                51.49405902840846
+              ],
+              [
+                -0.035967899246429624,
+                51.49397074240375
+              ],
+              [
+                -0.035919281091224775,
+                51.493963805638884
+              ],
+              [
+                -0.03427506898566435,
+                51.49428939575009
+              ],
+              [
+                -0.034155718806943014,
+                51.49404742789355
+              ],
+              [
+                -0.03414052563363157,
+                51.49403355438611
+              ],
+              [
+                -0.03410507489599013,
+                51.494027878859356
+              ],
+              [
+                -0.034058482497698606,
+                51.49403796868458
+              ],
+              [
+                -0.03406455976724487,
+                51.494046797279566
+              ],
+              [
+                -0.0339622590657882,
+                51.49407076060061
+              ],
+              [
+                -0.033934911354577935,
+                51.4940657156919
+              ],
+              [
+                -0.03382450762779854,
+                51.49406760753274
+              ],
+              [
+                -0.033735374343848434,
+                51.494042382982286
+              ],
+              [
+                -0.033777915229507016,
+                51.49399697875597
+              ],
+              [
+                -0.03380526294185415,
+                51.49399634814125
+              ],
+              [
+                -0.03383362353150687,
+                51.493967970476604
+              ],
+              [
+                -0.03383564920642357,
+                51.49394652937215
+              ],
+              [
+                -0.03386400979721316,
+                51.49394211506484
+              ],
+              [
+                -0.033866035552989615,
+                51.49393139460315
+              ],
+              [
+                -0.03398454230620018,
+                51.49390490874532
+              ],
+              [
+                -0.03398555518350577,
+                51.49391625982909
+              ],
+              [
+                -0.03405037939043609,
+                51.49389986381826
+              ],
+              [
+                -0.03406354680680579,
+                51.493875269791374
+              ],
+              [
+                -0.03389338407706077,
+                51.49353285577209
+              ],
+              [
+                -0.03391769315405213,
+                51.49351141465331
+              ],
+              [
+                -0.037221237218716396,
+                51.49285113939436
+              ],
+              [
+                -0.037269273383486734,
+                51.4928527134945
+              ],
+              [
+                -0.03729961201307219,
+                51.49288734368676
+              ],
+              [
+                -0.037670151653600215,
+                51.49362843711478
+              ],
+              [
+                -0.03767394398317947,
+                51.49365913153696
+              ],
+              [
+                -0.037643605352144505,
+                51.49367251115021
+              ],
+              [
+                -0.036198749521446416,
+                51.493958984589995
+              ],
+              [
+                -0.03618484431581237,
+                51.49397236411568
+              ],
+              [
+                -0.0361936930833906,
+                51.49399361394188
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Southwark Sports Ground",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.44331,
+          "longitude": -0.07628,
+          "status": "Open",
+          "period_opened": "1925-1949",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "Southwark Sports Ground is the former sports ground of Samuel Jones & Co., laid out in 1930s, with single storey brick clubhouse, tiled roof, used by Peckham Town Football Club (f.1982) and social club. Bowling green used by Southwark Sports Bowling Club (f.1977). No buildings of historic interest.",
+          "history_link": "/https://historicengland.org.uk/images-books/publications/played-in-london-directory-sporting-assets-london/directoryofhistoricsportingassetsinlondon/"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.074761665139647,
+                51.44315475452899
+              ],
+              [
+                -0.0750354611235764,
+                51.44360089200552
+              ],
+              [
+                -0.07449960327070926,
+                51.44372278673288
+              ],
+              [
+                -0.07489074038971921,
+                51.444112847673836
+              ],
+              [
+                -0.07756611691621629,
+                51.44373253962681
+              ],
+              [
+                -0.07785946975491242,
+                51.443742291188926
+              ],
+              [
+                -0.0779220516945145,
+                51.442596468395834
+              ],
+              [
+                -0.07740183932654077,
+                51.442642789449565
+              ],
+              [
+                -0.07593507512970632,
+                51.442923152717725
+              ],
+              [
+                -0.074761665139647,
+                51.44315475452899
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St. Anne’s Churchyard",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49097,
+          "longitude": -0.06934,
+          "status": "Open",
+          "period_opened": "1850-1874",
+          "year_opened": 1870,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "St Anne's is a picturesque small brick church with tower and spire, which was erected in 1869/70 to designs by J Porter. It is surrounded by railed gardens with island beds set into lawns, and trees around the perimeter.",
+          "history_link": "https://www.parksandgardens.org/places/st-annes-gardens-southwark"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.06911178351802505,
+                51.490727009831375
+              ],
+              [
+                -0.06913804760858966,
+                51.49060844964319
+              ],
+              [
+                -0.06864559588552765,
+                51.490559390165146
+              ],
+              [
+                -0.06847925663763021,
+                51.491178080828064
+              ],
+              [
+                -0.06948166947594814,
+                51.491292551307566
+              ],
+              [
+                -0.0696611407701937,
+                51.49066704839478
+              ],
+              [
+                -0.0691468023053119,
+                51.49060844964319
+              ],
+              [
+                -0.06909208544763601,
+                51.490846932464535
+              ],
+              [
+                -0.06926717939441573,
+                51.49086464828255
+              ],
+              [
+                -0.06922997193137803,
+                51.490992747061995
+              ],
+              [
+                -0.06921027386184164,
+                51.49099002155958
+              ],
+              [
+                -0.0691971418167725,
+                51.49103226682536
+              ],
+              [
+                -0.06892793487540416,
+                51.491006374570446
+              ],
+              [
+                -0.06893450089856401,
+                51.49097775679766
+              ],
+              [
+                -0.06883382187987763,
+                51.49096821753636
+              ],
+              [
+                -0.0688578972965388,
+                51.49089871714176
+              ],
+              [
+                -0.06875065225469257,
+                51.49088645235531
+              ],
+              [
+                -0.06880099176402155,
+                51.490694303603334
+              ],
+              [
+                -0.06911178351802505,
+                51.490727009831375
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St. Gile’s Churchyard",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47256,
+          "longitude": -0.08685,
+          "status": "Open",
+          "period_opened": "1925-1949",
+          "year_opened": 1939,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "The medieval church of St Giles served a large parish comprising the villages at Camberwell, Peckham and Dulwich, the area later engulfed by housing. The present church of St Giles was built in 1842-44 when the earlier church was destroyed in a fire in 1841, only its porch remaining. The new church was Sir George Gilbert Scott's first major gothic building. The walled churchyard was in use until 1856, having been enlarged in 1717, 1803 and 1825. After its closure it became neglected and part was lost when Peckham Road was widened. It was cleared of graves in 1939 and laid out as a public garden, with headstones forming a wall on the northern end. It contains mature trees and a few tombs remain in the grass.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU078"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.08731323206919228,
+                51.473182515969825
+              ],
+              [
+                -0.08763776303854343,
+                51.47315566869415
+              ],
+              [
+                -0.08749831668598063,
+                51.47278454334878
+              ],
+              [
+                -0.08750211978414768,
+                51.47276164400307
+              ],
+              [
+                -0.08742215829590805,
+                51.4726531611056
+              ],
+              [
+                -0.08722429962392653,
+                51.472253442714106
+              ],
+              [
+                -0.0871989456420863,
+                51.47225897020485
+              ],
+              [
+                -0.0871647177660293,
+                51.47224712558082
+              ],
+              [
+                -0.08710893900479277,
+                51.47221475025921
+              ],
+              [
+                -0.08685977398033629,
+                51.47184497369952
+              ],
+              [
+                -0.08618069741990553,
+                51.47199009835444
+              ],
+              [
+                -0.08638610649950351,
+                51.47257765628913
+              ],
+              [
+                -0.08636045263546066,
+                51.472701184567626
+              ],
+              [
+                -0.08635157874121546,
+                51.472871745160575
+              ],
+              [
+                -0.08642130219274691,
+                51.47298624149687
+              ],
+              [
+                -0.0865772291819269,
+                51.47293096743911
+              ],
+              [
+                -0.08666089732230375,
+                51.47288516888372
+              ],
+              [
+                -0.08718422725209507,
+                51.472853069021795
+              ],
+              [
+                -0.0872209905254806,
+                51.472838855657585
+              ],
+              [
+                -0.08731374042909579,
+                51.472972982757426
+              ],
+              [
+                -0.08731323206919228,
+                51.473182515969825
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St. Mary’s Frobisher Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47148,
+          "longitude": -0.05377,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": "Unknown",
+          "alteration": "Shrank, Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "By drawing comparisons between maps dated 1970 and 1977 it would appear that St. Mary’s Frobisher Park was opened between those dates. Until a more specific opening date is known the opening period forSalisbury Row Park will be classified as 1950-1974. \n\nIt would also appear that at some point between 1977 and 2002 the park was shrunk.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.05439554649652223,
+                51.47153641714928
+              ],
+              [
+                -0.05430568387330936,
+                51.47131840589398
+              ],
+              [
+                -0.053750742756875525,
+                51.471399914728806
+              ],
+              [
+                -0.053706599713592595,
+                51.47129974722438
+              ],
+              [
+                -0.05321942406615676,
+                51.47138027393589
+              ],
+              [
+                -0.05335658280785083,
+                51.47170237985148
+              ],
+              [
+                -0.053859035235348074,
+                51.47162156594575
+              ],
+              [
+                -0.05439554649652223,
+                51.47153641714928
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "St. Pauls Sports Ground",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.50612,
+          "longitude": -0.04019,
+          "status": "Open",
+          "period_opened": "1950-1974",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By drawing comparisons between maps dated 1970 and 1977 it would appear that St. Pauls Sports Ground was opened between those dates. Until a more specific opening date is known the opening period forSalisbury Row Park will be classified as 1950-1974. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.04108954085870664,
+                51.50648782183944
+              ],
+              [
+                -0.041049600042100565,
+                51.505779300543054
+              ],
+              [
+                -0.039384569218583465,
+                51.505816590718126
+              ],
+              [
+                -0.039429502636863845,
+                51.50652355767332
+              ],
+              [
+                -0.04108954085870664,
+                51.50648782183944
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Stave Hill Ecological Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.50108,
+          "longitude": -0.04047,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "Stave Hill is on a site which once was part of the Surrey Commercial Docks, which were created on former pasture and marshland in 1864 when Rotherhithe's C19th commercial docks were amalgamated and came to cover over 185 hectares. The Docks were closed in 1969, and Stave Hill is an artificial hill created from spoil when the docks were infilled in 1985/9. From the hill are fine views and at the summit is a bronze map by Michael Rizzello, 1986, commissioned by the London Docklands Development Corporation. The hill overlooks a nature reserve created by the Trust for Urban Ecology, which was planted with saplings in 1987. Trees include field maple, alder, ash, birch, aspen, cherry, rowan and oak and numerous shrubs plus a number of ponds.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU089"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.03974489712263107,
+                51.50238588943549
+              ],
+              [
+                -0.03966872762151752,
+                51.50247018117386
+              ],
+              [
+                -0.040372872609367505,
+                51.5027493963311
+              ],
+              [
+                -0.04055229409888739,
+                51.50256817001144
+              ],
+              [
+                -0.04049982172955424,
+                51.50196337462495
+              ],
+              [
+                -0.04092467827788937,
+                51.50156192884853
+              ],
+              [
+                -0.03933180758281196,
+                51.50118991446675
+              ],
+              [
+                -0.0386410087628235,
+                51.501965213507304
+              ],
+              [
+                -0.039613983452284174,
+                51.50233485804847
+              ],
+              [
+                -0.03974489712263107,
+                51.50238588943549
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sunray Gardens",
+          "other_names": "Casino Open Space",
+          "borough": "Southwark",
+          "latitude": 51.45659,
+          "longitude": -0.09162,
+          "status": "Open",
+          "period_opened": "1900-1924",
+          "year_opened": 1920,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "Sunray Gardens is a remnant of the landscaped grounds of Casina, a late C18th house on The Dulwich Estate. The grounds were designed by Humphry Repton, including a large lake that survives as the sole remnant from the earlier landscape. By 1920 Casina was empty and the Estate released the land to Camberwell Borough Council for much needed social housing. A clause in the plans for the new estate enabled an area of open space to be preserved for recreational purposes and the area around the lake was chosen and laid out, initially called Casino Open Space, renamed Sunray Gardens in 1923.",
+          "history_link": "https://londongardenstrust.org/conservation/inventory/site-record/?ID=SOU090"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.09113996422493642,
+                51.457538534008194
+              ],
+              [
+                -0.09210048146812255,
+                51.45689324438732
+              ],
+              [
+                -0.09281958617819441,
+                51.45640651438913
+              ],
+              [
+                -0.0926509469314567,
+                51.456265311704556
+              ],
+              [
+                -0.09260615185911547,
+                51.45622098032041
+              ],
+              [
+                -0.09259034183318704,
+                51.45619306794521
+              ],
+              [
+                -0.09215820113752216,
+                51.455840057023124
+              ],
+              [
+                -0.09116066466506823,
+                51.456220462773416
+              ],
+              [
+                -0.09091560927012665,
+                51.45626807796245
+              ],
+              [
+                -0.09084709906454691,
+                51.45646838970205
+              ],
+              [
+                -0.09056473428233858,
+                51.45680303672896
+              ],
+              [
+                -0.090566051784009,
+                51.456974613177806
+              ],
+              [
+                -0.09091597530959916,
+                51.45733406464308
+              ],
+              [
+                -0.09113996422493642,
+                51.457538534008194
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Surrey Canal Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.47585,
+          "longitude": -0.07047,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "The former Camberwell Basin and the final 0.9 miles (1.4 km) now form part of the site of Burgess Park. The bridge over the canal which was built in 1906, remains as a feature in Burgess Park, and is now known as the Bridge to Nowhere. Most of the Peckham branch, including its bridges and walls, is now a walking and cycling route, known both as the Surrey Canal Walk and Surrey Canal Linear Path (not to be confused with Lewisham's Surrey Canal Linear Park). Peckham Library has been built over the terminal basin. The Greenland Dock remains in water, and is connected to the South Dock, now a marina, which gives access to the River Thames through a lock.",
+          "history_link": "https://en.wikipedia.org/wiki/Grand_Surrey_Canal#:~:text=The Grand Surrey Canal was,from the Surrey Commercial Docks."
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.0739531367999291,
+                51.48377635107872
+              ],
+              [
+                -0.0739288707537753,
+                51.483355601395004
+              ],
+              [
+                -0.0739518607551588,
+                51.482941688966406
+              ],
+              [
+                -0.07395058354504158,
+                51.48264501115324
+              ],
+              [
+                -0.07346907488059173,
+                51.48268318963946
+              ],
+              [
+                -0.0733260272141365,
+                51.48265137423655
+              ],
+              [
+                -0.07331904798019195,
+                51.48219109384385
+              ],
+              [
+                -0.07325507293700184,
+                51.481774385498994
+              ],
+              [
+                -0.07292039324104849,
+                51.481006755014505
+              ],
+              [
+                -0.0729331653555505,
+                51.480954257657885
+              ],
+              [
+                -0.07278373296460927,
+                51.480634501176866
+              ],
+              [
+                -0.07267517000241241,
+                51.480456326630275
+              ],
+              [
+                -0.07254918708429159,
+                51.48018210550603
+              ],
+              [
+                -0.07241771226478022,
+                51.48011031973223
+              ],
+              [
+                -0.07231505384524439,
+                51.479890475097136
+              ],
+              [
+                -0.07235287536767032,
+                51.47987477186837
+              ],
+              [
+                -0.07230756150869411,
+                51.47953105032258
+              ],
+              [
+                -0.07174054958807119,
+                51.47832876983563
+              ],
+              [
+                -0.07157125324508229,
+                51.478317552860176
+              ],
+              [
+                -0.07149678606720045,
+                51.478248552720345
+              ],
+              [
+                -0.07129146922710561,
+                51.47788960750478
+              ],
+              [
+                -0.0714139389210402,
+                51.47770452527425
+              ],
+              [
+                -0.07130727635924927,
+                51.47748326146095
+              ],
+              [
+                -0.07128026148521371,
+                51.477359872534436
+              ],
+              [
+                -0.07132528710792485,
+                51.477352020484915
+              ],
+              [
+                -0.07115959459906662,
+                51.47696614750106
+              ],
+              [
+                -0.0709380699133817,
+                51.47641425309479
+              ],
+              [
+                -0.07082947640938642,
+                51.47612596207125
+              ],
+              [
+                -0.07071601184000542,
+                51.47591282877207
+              ],
+              [
+                -0.0707082469014324,
+                51.475801074280554
+              ],
+              [
+                -0.07066054795555488,
+                51.4757110732283
+              ],
+              [
+                -0.0705960141278581,
+                51.475242715398394
+              ],
+              [
+                -0.07038803395761306,
+                51.47457022786071
+              ],
+              [
+                -0.0703596819540735,
+                51.47446943447892
+              ],
+              [
+                -0.07024385003194311,
+                51.47448360629812
+              ],
+              [
+                -0.07021489205078524,
+                51.47441532385696
+              ],
+              [
+                -0.06992738067313553,
+                51.47446428108907
+              ],
+              [
+                -0.07021282176006594,
+                51.475232125813534
+              ],
+              [
+                -0.07008044242030564,
+                51.475239855767796
+              ],
+              [
+                -0.07034383961962476,
+                51.475939649725376
+              ],
+              [
+                -0.07014527060937326,
+                51.475969280750434
+              ],
+              [
+                -0.07005219138662255,
+                51.47599247023493
+              ],
+              [
+                -0.07024248668741961,
+                51.47635705891295
+              ],
+              [
+                -0.07046794524995903,
+                51.47631454518904
+              ],
+              [
+                -0.0709066520427939,
+                51.47726444817738
+              ],
+              [
+                -0.07067498819728257,
+                51.477304384481215
+              ],
+              [
+                -0.07074531472187573,
+                51.477452534981694
+              ],
+              [
+                -0.07083425709058133,
+                51.47745382324473
+              ],
+              [
+                -0.07105764722658137,
+                51.47740744574986
+              ],
+              [
+                -0.07107833149834164,
+                51.47742934623949
+              ],
+              [
+                -0.07111142633351619,
+                51.47751050678559
+              ],
+              [
+                -0.07109281048826688,
+                51.477519524614934
+              ],
+              [
+                -0.07109074206184118,
+                51.47755301939486
+              ],
+              [
+                -0.0712355318370328,
+                51.477831282675595
+              ],
+              [
+                -0.07112176834255024,
+                51.477858335968335
+              ],
+              [
+                -0.07183307952755058,
+                51.479340504733244
+              ],
+              [
+                -0.07141732531027856,
+                51.479442273348724
+              ],
+              [
+                -0.07139664103851828,
+                51.479462884655135
+              ],
+              [
+                -0.07143594115430574,
+                51.47951054826498
+              ],
+              [
+                -0.07174834549522302,
+                51.4796986702859
+              ],
+              [
+                -0.07201930945649337,
+                51.47983908383554
+              ],
+              [
+                -0.0721206623886701,
+                51.47988030607999
+              ],
+              [
+                -0.07219132942594797,
+                51.48001996133337
+              ],
+              [
+                -0.07236094000356275,
+                51.48048885941182
+              ],
+              [
+                -0.07244781394575739,
+                51.48071815440676
+              ],
+              [
+                -0.0726025254195406,
+                51.48101457898841
+              ],
+              [
+                -0.07291278895738174,
+                51.48160841787771
+              ],
+              [
+                -0.07313824544067415,
+                51.48214658314825
+              ],
+              [
+                -0.07312376645069207,
+                51.482182650789184
+              ],
+              [
+                -0.07308653476135873,
+                51.48257939295729
+              ],
+              [
+                -0.07296196806115063,
+                51.48269278551501
+              ],
+              [
+                -0.07272823578924204,
+                51.482712107237916
+              ],
+              [
+                -0.07263738091802452,
+                51.48261347859412
+              ],
+              [
+                -0.07222783233527252,
+                51.48268303687837
+              ],
+              [
+                -0.07237643788434411,
+                51.483037621207615
+              ],
+              [
+                -0.07261727856536027,
+                51.48365787578885
+              ],
+              [
+                -0.0731033589532899,
+                51.48378024397101
+              ],
+              [
+                -0.0739531367999291,
+                51.48377635107872
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tabard Garden",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49856,
+          "longitude": -0.08914,
+          "status": "Open",
+          "period_opened": "1925-1949",
+          "year_opened": 1929,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By the 20th century Tabard Street was surrounded by notorious slums. The London County Council razed the majority of the eastern side of the street as part of a major slum clearance programme in 1910. From then until 1933 the LCC rebuilt the area as the Tabard Gardens Estate, with large blocks of flats replacing the previous buildings. Of the 101⁄2 acres (4.2 hectares) of the development site, 5 acres (2 hectares) were set aside as a park for the estate, which was called Tabard Gardens and opened in 1929.",
+          "history_link": "https://en.wikipedia.org/wiki/Tabard_Gardens#:~:text=Tabard Gardens is a small,Council and opened in 1929."
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.09000318499298032,
+                51.499721530295005
+              ],
+              [
+                -0.09074448133699775,
+                51.499535265251666
+              ],
+              [
+                -0.09008301797086915,
+                51.49895600591296
+              ],
+              [
+                -0.08963365635182186,
+                51.49855149885539
+              ],
+              [
+                -0.0891926791029789,
+                51.49815743318129
+              ],
+              [
+                -0.0887918878016194,
+                51.497784906344975
+              ],
+              [
+                -0.08846143040378251,
+                51.497495083991595
+              ],
+              [
+                -0.08760436351957424,
+                51.498014894437716
+              ],
+              [
+                -0.08825431070243894,
+                51.49841268655442
+              ],
+              [
+                -0.08906035669772905,
+                51.498868607195135
+              ],
+              [
+                -0.08930373065064146,
+                51.49900760532404
+              ],
+              [
+                -0.0897458059927203,
+                51.499453776411826
+              ],
+              [
+                -0.09000318499298032,
+                51.499721530295005
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victory Community Park",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.4932,
+          "longitude": -0.09313,
+          "status": "Open",
+          "period_opened": "1975-1999",
+          "year_opened": 1980,
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1999,
+          "brief_history": "The park was opened in 1980 on the site of demolished Victorian housing, a warehouse and a factory. Lobbying from the local community led to the creation of Victory Community Park. Initially the park was simply fenced with grass areas within and managed by the local community as a garden. In 2007 Southwark council undertook a major refurbishment project as part of the ‘4 parks project’, creating the park as it is today.",
+          "history_link": "https://consultations.southwark.gov.uk/environment-leisure/victory-community-park-2nd-consultation/supporting_documents/VCP concept designs.pdf"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.093812114653133,
+                51.493315064771366
+              ],
+              [
+                -0.09373672146895728,
+                51.49296267142563
+              ],
+              [
+                -0.09275795198297487,
+                51.493065968781764
+              ],
+              [
+                -0.09281477003554528,
+                51.493219715672126
+              ],
+              [
+                -0.09211546610367805,
+                51.49329999040938
+              ],
+              [
+                -0.09203570230039304,
+                51.4932931874726
+              ],
+              [
+                -0.09190130577488276,
+                51.49285439595866
+              ],
+              [
+                -0.09155165622135542,
+                51.49291698354139
+              ],
+              [
+                -0.0916177599993091,
+                51.49323080901769
+              ],
+              [
+                -0.09169643114879023,
+                51.49345462541217
+              ],
+              [
+                -0.09179367742990507,
+                51.49346346919856
+              ],
+              [
+                -0.09225664274370615,
+                51.49342925464887
+              ],
+              [
+                -0.09233749920210244,
+                51.49344830281248
+              ],
+              [
+                -0.09303570503010405,
+                51.49338503617946
+              ],
+              [
+                -0.093812114653133,
+                51.493315064771366
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Lane Garden",
+          "other_names": "",
+          "borough": "Southwark",
+          "latitude": 51.49893,
+          "longitude": -0.06044,
+          "status": "Open",
+          "period_opened": "",
+          "year_opened": "Unknown",
+          "alteration": "Unchanged",
+          "period_destroyed": "n/a",
+          "first_list_appearance": 1981,
+          "brief_history": "By drawing comparisons between maps dated between 1916 and 1951 it would appear that West Lane Garden was opened sometime between those two dates. Until a more specific date is found, the opening period for West Lane Garden will be classified as 1925-1950. \n\nAside from this, no other information regarding the history of the open space has been found.",
+          "history_link": ""
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                -0.060365406338462435,
+                51.49920509427045
+              ],
+              [
+                -0.06042481395070354,
+                51.49918304032968
+              ],
+              [
+                -0.06046787084520133,
+                51.499139950291436
+              ],
+              [
+                -0.060494031995318664,
+                51.499090074369064
+              ],
+              [
+                -0.06050711257785224,
+                51.499012376391164
+              ],
+              [
+                -0.06051092774521294,
+                51.49886885533178
+              ],
+              [
+                -0.060509837640523756,
+                51.498804050046004
+              ],
+              [
+                -0.06048967175411235,
+                51.49878301379479
+              ],
+              [
+                -0.06047986132296046,
+                51.49876774554133
+              ],
+              [
+                -0.06044116461995941,
+                51.49875213798833
+              ],
+              [
+                -0.06039374753524385,
+                51.49874603068372
+              ],
+              [
+                -0.06037807662897876,
+                51.49895897457756
+              ],
+              [
+                -0.060365406338462435,
+                51.49920509427045
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        }
       }
     ]
   }

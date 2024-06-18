@@ -74,6 +74,12 @@ document.getElementById("alterations_expanded").style = `background-color: ${alt
 var alterationsShrunkColor = "#ff4c3f";
 document.getElementById("alterations_shrunk").style = `background-color: ${alterationsShrunkColor}`;
 
+//Unknown Colours//
+var unknownColor = "#C0C0C0";
+document.getElementById("status_unknown").style = `background-color: ${unknownColor}`
+document.getElementById("yo_unknown").style = `background-color: ${unknownColor}`
+document.getElementById("alterations_unknown").style = `background-color: ${unknownColor}`
+
 //View Modes// 
 var parkStatusViewMode = {
     id : "park_status_layer",
@@ -86,6 +92,8 @@ var parkStatusViewMode = {
             'Open', statusOpenColor,
             'Defunct', statusDefunctColor,
             'Under Threat', statusUnderThreatColor,
+            'Unknown', unknownColor,
+            'Not Sure', unknownColor,
             '#5A5AE2'
         ],
         'fill-opacity' : 0.8
@@ -107,6 +115,7 @@ var yearOpenedViewMode = {
             "1950-1974", yo1950to1974Color,
             "1975-1999", yo1975to1999Color,
             "2000-2024", yo2000to2024Color,
+            'Unknown', unknownColor,
             "#000000"
         ],
         'fill-opacity' : 0
@@ -146,7 +155,9 @@ var alterationParksLayer = {
             "Expanded", alterationsExpandedColor,
             "Shrank", statusOpenColor,
             "Closed", statusDefunctColor,
-            "Uncertain", statusOpenColor,
+            "Uncertain", unknownColor,
+            "Unknown", unknownColor,
+            "Not Sure", unknownColor,
             "#000000"
         ],
         "fill-opacity" : 0,
@@ -163,6 +174,32 @@ var expandedParksLayer = {
     },
     filter : ["==", ["get", "alteration"], "Expanded"]
 } 
+var defunctParksOutline = {
+    id : "defunct_parks_outline",
+    type : "line",
+    source : "parkShapesSource",
+    layout: {},
+    paint : {
+        'line-color' :  statusDefunctColor,
+        'line-width' : 3,
+    },
+    filter: ['==', ['get', 'status'], 'Defunct']
+}
+// var defunctParksOutline = {
+//     id : "defunct_parks_outline",
+//     type : "line",
+//     source : "parkShapesSource",
+//     layout: {},
+//     paint : {
+//         'line-color' : [
+//             'match',
+//             ['get', 'status'],
+//             'Defunct', statusDefunctColor
+//         ],
+//         'line-width' : 2
+      
+//     }
+// }
 // function openParkOverlayfromListView(){
 //      let park_data_string = window.localStorage.getItem("list_view_clicked_park");
 //     console.log(park_data_string);
@@ -228,6 +265,7 @@ map.on('load', () =>{
             "line-width" : 2.5
         }
     })
+    map.addLayer(defunctParksOutline);
     map.addLayer(parkStatusViewMode);
     map.addLayer(yearOpenedViewMode);
     map.addLayer(shrunkParksLayer);
@@ -267,6 +305,9 @@ function setOpeningDateColor(clickedParkPeriod){
         case "2000-2024":
             returnColor = yo2000to2024Color;
             break;
+        case "Unknown": 
+            returnColor = unknownColor;
+            break;
         default:
             returnColor = "#000000";
     }
@@ -283,6 +324,9 @@ function setStatusColor(clickedParkStatus){
             break;
         case "Defunct":
             returnColor = statusDefunctColor;
+            break;
+        case "Unknown":
+            returnColor = unknownColor;
             break;
         default:
             returnColor = "#000000";
@@ -303,6 +347,12 @@ function setAlterationColor(clickedParkAlteration){
             break;
         case "Shrank":
             returnColor = statusDefunctColor;
+            break;
+        case "Unknown": 
+            returnColor = unknownColor;
+            break;
+        case "Not Sure":
+            returnColor = unknownColor;
             break;
         default:
             returnColor = "#000000";
@@ -814,12 +864,12 @@ window.addEventListener('beforeunload', () => window.localStorage.setItem("map_a
     // This is around lione 172. 
     // Don't forget to add it to the actual JSON file you have to copy and paste it from the console!!!
 
-    // function calculateGeoJSONPolygonArea(current_park){
-    //     let polygon_square_meters = turf.area(current_park);
-    //     let polygon_acres = polygon_square_meters / 4046.85642;
-    //     let polygon_area = Math.round(polygon_acres * 100) / 100;
-    //     current_park.properties.area = polygon_area;
-    //     console.log(polygon_area);
-    // }
+    function calculateGeoJSONPolygonArea(current_park){
+        let polygon_square_meters = turf.area(current_park);
+        let polygon_acres = polygon_square_meters / 4046.85642;
+        let polygon_area = Math.round(polygon_acres * 100) / 100;
+        current_park.properties.size = polygon_area;
+        console.log(polygon_area);
+    }
     // parksShapes.features.forEach((current_park) => calculateGeoJSONPolygonArea(current_park));
     // console.log(parksShapes);
