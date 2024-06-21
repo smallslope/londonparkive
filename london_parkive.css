@@ -9,7 +9,7 @@ html, body, #map {
 }
 #mapContainer{
     width: 100vw;
-    height: 93vh;
+    height: 100vh;
     position: absolute;
     bottom: 0;
 }
@@ -22,8 +22,8 @@ html, body, #map {
     top: 0rem;
     left: 0rem;
     height: 3.25rem;
-    width: 99.6vw;
-    max-width: 99.6vw;
+    width: 100vw;
+    max-width: 100vw;
     background-color:white ;
     border-style: solid;
     border-width: 3px;
